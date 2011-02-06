@@ -1,0 +1,59 @@
+TDesignPatterns
+v7
+r0
+t318721500.664417
+cCheck dependencies
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o /Users/jtherrell/src/DesignPatterns/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns
+t1297028700
+s10576
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/DesignPatterns.LinkFileList
+c000000004D4F165B0000000000000077
+t1297028699
+s119
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o
+t1297028700
+s66976
+
+N/Users/jtherrell/src/DesignPatterns/main.cpp
+c000000004D4F1641000000000000008F
+t1297028673
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318721499#318721499#0(0"0(0#1#0"29836824280170608#0"0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o /Users/jtherrell/src/DesignPatterns/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721499.624929
+e318721500.288546
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o
+x/Users/jtherrell/src/DesignPatterns/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jtherrell/src/DesignPatterns/main.cpp318721499#318721500#0(0"0(0#0#44"/Users/jtherrell/src/DesignPatterns/main.cpp3275089324280537600#1384"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/main.cpp -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns normal x86_64
+s318721500.288656
+e318721500.664359
+r1
+xLd
+x/Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns318721500#318721500#0(0"0(0#0#0"8603722208#511"    cd /Users/jtherrell/src/DesignPatterns    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jtherrell/src/DesignPatterns/build/Debug -F/Users/jtherrell/src/DesignPatterns/build/Debug -filelist /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/DesignPatterns.LinkFileList -mmacosx-version-min=10.6 -o /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns0#
+

@@ -1,0 +1,908 @@
+TDesignPatterns
+v7
+r0
+t318722029.999063
+cCheck dependencies
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o /Users/jtherrell/src/DesignPatterns/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o /Users/jtherrell/src/DesignPatterns/abfactory.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o /Users/jtherrell/src/DesignPatterns/adapter.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o /Users/jtherrell/src/DesignPatterns/bridge.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o /Users/jtherrell/src/DesignPatterns/builder.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o /Users/jtherrell/src/DesignPatterns/C++/maze.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o /Users/jtherrell/src/DesignPatterns/chain.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o /Users/jtherrell/src/DesignPatterns/command.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o /Users/jtherrell/src/DesignPatterns/composite.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o /Users/jtherrell/src/DesignPatterns/decorator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o /Users/jtherrell/src/DesignPatterns/facade.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o /Users/jtherrell/src/DesignPatterns/factorymeth.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o /Users/jtherrell/src/DesignPatterns/flyweight.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o /Users/jtherrell/src/DesignPatterns/interpreter.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o /Users/jtherrell/src/DesignPatterns/iterator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o /Users/jtherrell/src/DesignPatterns/mediator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o /Users/jtherrell/src/DesignPatterns/memento.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o /Users/jtherrell/src/DesignPatterns/observer.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o /Users/jtherrell/src/DesignPatterns/prototype.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o /Users/jtherrell/src/DesignPatterns/proxy.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o /Users/jtherrell/src/DesignPatterns/singleton.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o /Users/jtherrell/src/DesignPatterns/state.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o /Users/jtherrell/src/DesignPatterns/strategy.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o /Users/jtherrell/src/DesignPatterns/TCPClosed.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o /Users/jtherrell/src/DesignPatterns/tmethod.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o /Users/jtherrell/src/DesignPatterns/visitor.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/strings.h
+c000000004BBD2CE90000000000000DA4
+t1270689001
+s3492
+
+N/Users/jtherrell/src/DesignPatterns/C++/Foundation.H
+c000000002EBD0D5D0000000000000B30
+t784141661
+s2864
+
+N/Users/jtherrell/src/DesignPatterns/C++/Geom.H
+c000000004D4F1838000000000000006E
+t1297029176
+s110
+i"Foundation.h"
+
+N/Users/jtherrell/src/DesignPatterns/C++/List.H
+c000000004D4F18380000000000000018
+t1297029176
+s24
+i"Foundation.h"
+
+N/Users/jtherrell/src/DesignPatterns/C++/MazeFactories.H
+c000000004D4F176E0000000000000248
+t1297028974
+s584
+i"MazeFactory.h"
+i"MazeFactory.h"
+
+N/Users/jtherrell/src/DesignPatterns/C++/MazeFactory.H
+c000000002E14467C00000000000001D4
+t773080700
+s468
+
+N/Users/jtherrell/src/DesignPatterns/C++/MazeGame.H
+c000000002E1457BC0000000000000226
+t773085116
+s550
+
+N/Users/jtherrell/src/DesignPatterns/C++/MazeParts.H
+c000000004D4F183800000000000008D2
+t1297029176
+s2258
+i"defs.h"
+
+N/Users/jtherrell/src/DesignPatterns/C++/defs.H
+c000000004D4F186B000000000000009C
+t1297029227
+s156
+
+N/Users/jtherrell/src/DesignPatterns/C++/maze.C
+c000000004D4F18380000000000002837
+t1297029176
+s10295
+i"Geom.h"
+i<iostream.h>
+i"C++/MazeParts.h"
+i"C++/MazeFactories.h"
+i"C++/MazeGame.h"
+
+N/Users/jtherrell/src/DesignPatterns/TCPClosed.C
+c000000002EBD0F6900000000000000C3
+t784142185
+s195
+
+N/Users/jtherrell/src/DesignPatterns/abfactory.C
+c000000004D4F183800000000000006D5
+t1297029176
+s1749
+i"C++/MazeParts.h"
+i"C++/MazeGame.h"
+i"C++/MazeFactories.h"
+
+N/Users/jtherrell/src/DesignPatterns/adapter.C
+c000000004D4F18380000000000000932
+t1297029176
+s2354
+i"Geom.h"
+
+N/Users/jtherrell/src/DesignPatterns/bridge.C
+c000000004D4F183800000000000012CB
+t1297029176
+s4811
+i"Geom.h"
+i"math.h"
+
+N/Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns
+t1297028700
+s10576
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/DesignPatterns.LinkFileList
+c000000004D4F16C10000000000000C70
+t1297028801
+s3184
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o
+t1297029228
+s12096
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o
+t1297029229
+s1412
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o
+t1297028801
+s9876
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o
+t1297029229
+s5684
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o
+t1297029229
+s9060
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o
+t1297029229
+s14792
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o
+t1297028700
+s66976
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o
+t1297029229
+s1416
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o
+t1297029177
+s4828
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o
+t1297028802
+s15356
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o
+t1297029177
+s1416
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o
+t2
+s0
+
+N/Users/jtherrell/src/DesignPatterns/builder.C
+c000000004D4F176E0000000000000B56
+t1297028974
+s2902
+i"C++/MazeParts.h"
+i"C++/MazeGame.h"
+i<iostream.h>
+
+N/Users/jtherrell/src/DesignPatterns/chain.C
+c000000004D4F18380000000000000EC7
+t1297029176
+s3783
+i"defs.h"
+
+N/Users/jtherrell/src/DesignPatterns/command.C
+c000000004D4F183800000000000008EE
+t1297029176
+s2286
+i"List.h"
+
+N/Users/jtherrell/src/DesignPatterns/composite.C
+c000000004D4F18380000000000000B46
+t1297029176
+s2886
+i"List.h"
+i"iostream.h"
+
+N/Users/jtherrell/src/DesignPatterns/decorator.C
+c000000002EBD0ED700000000000007AB
+t784142039
+s1963
+
+N/Users/jtherrell/src/DesignPatterns/facade.C
+c000000004D4F18380000000000000ACF
+t1297029176
+s2767
+i"Foundation.h"
+
+N/Users/jtherrell/src/DesignPatterns/factorymeth.C
+c000000004D4F176E0000000000000C9D
+t1297028974
+s3229
+i"C++/MazeParts.h"
+
+N/Users/jtherrell/src/DesignPatterns/flyweight.C
+c000000004D4F183800000000000007E5
+t1297029176
+s2021
+i"defs.h"
+
+N/Users/jtherrell/src/DesignPatterns/interpreter.C
+c000000004D4F18380000000000000D5D
+t1297029176
+s3421
+i"defs.h"
+i<strings.h>
+
+N/Users/jtherrell/src/DesignPatterns/iterator.C
+c000000004D4F183800000000000016DA
+t1297029176
+s5850
+i"defs.h"
+
+N/Users/jtherrell/src/DesignPatterns/main.cpp
+c000000004D4F1641000000000000008F
+t1297028673
+s143
+i<iostream>
+
+N/Users/jtherrell/src/DesignPatterns/mediator.C
+c000000004D4F183800000000000008C7
+t1297029176
+s2247
+i"List.h"
+
+N/Users/jtherrell/src/DesignPatterns/memento.C
+c000000004D4F18380000000000000B04
+t1297029176
+s2820
+i"Geom.h"
+
+N/Users/jtherrell/src/DesignPatterns/observer.C
+c000000004D4F18380000000000000B4F
+t1297029176
+s2895
+i"List.h"
+
+N/Users/jtherrell/src/DesignPatterns/prototype.C
+c000000004D4F176E00000000000008F7
+t1297028974
+s2295
+i"C++/MazeGame.h"
+i"C++/MazeFactory.h"
+i"C++/MazeParts.h"
+i"C++/MazeParts.h"
+
+N/Users/jtherrell/src/DesignPatterns/proxy.C
+c000000004D4F18380000000000000C7E
+t1297029176
+s3198
+i"Geom.h"
+i"iostream.h"
+i"strings.h"
+
+N/Users/jtherrell/src/DesignPatterns/singleton.C
+c000000004D4F183800000000000008F0
+t1297029176
+s2288
+i"List.h"
+i"stdlib.h"
+i"C++/MazeFactories.h"
+i"stdlib.h"
+i"strings.h"
+
+N/Users/jtherrell/src/DesignPatterns/state.C
+c000000002EBD0F690000000000000A67
+t784142185
+s2663
+i"TCPClosed.C"
+
+N/Users/jtherrell/src/DesignPatterns/strategy.C
+c000000004D4F18380000000000000DE6
+t1297029176
+s3558
+i"Geom.h"
+
+N/Users/jtherrell/src/DesignPatterns/tmethod.C
+c000000004D4F1838000000000000061F
+t1297029176
+s1567
+i"Foundation.h"
+
+N/Users/jtherrell/src/DesignPatterns/visitor.C
+c000000004D4F183800000000000010E3
+t1297029176
+s4323
+i"Foundation.h"
+i<iostream.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318722028#318722028#0(0"0(0#1#0"8609846816#0"0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o /Users/jtherrell/src/DesignPatterns/TCPClosed.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.653574
+e318722029.681825
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o
+x/Users/jtherrell/src/DesignPatterns/TCPClosed.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jtherrell/src/DesignPatterns/TCPClosed.C:3: error: expected class-name before '{' token
+o/Users/jtherrell/src/DesignPatterns/TCPClosed.C:5: error: ISO C++ forbids declaration of 'TCPState' with no type
+o/Users/jtherrell/src/DesignPatterns/TCPClosed.C:5: error: expected ';' before '*' token
+o/Users/jtherrell/src/DesignPatterns/TCPClosed.C:7: error: 'TCPConnection' has not been declared
+o/Users/jtherrell/src/DesignPatterns/TCPClosed.C:8: error: 'TCPConnection' has not been declared
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/TCPClosed.C318722029#318722029#0(488"/Users/jtherrell/src/DesignPatterns/TCPClosed.C:3: error: expected class-name before '{' token/Users/jtherrell/src/DesignPatterns/TCPClosed.C:5: error: ISO C++ forbids declaration of 'TCPState' with no type/Users/jtherrell/src/DesignPatterns/TCPClosed.C:5: error: expected ';' before '*' token/Users/jtherrell/src/DesignPatterns/TCPClosed.C:7: error: 'TCPConnection' has not been declared/Users/jtherrell/src/DesignPatterns/TCPClosed.C:8: error: 'TCPConnection' has not been declared5(4@36"Expected class-name before '{' token318722029#0#95#0(6@47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C18446744073515386601#3#0#3#0#19"expected * before *0(4@54"ISO C++ forbids declaration of 'TCPState' with no type318722029#95#113#0(6@47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C18446744073515386601#5#0#5#0#47"ISO C++ forbids declaration of '*' with no type0(4@29"Expected ';' before '*' token318722029#208#88#0(6@47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C18446744073515386601#5#0#5#0#19"expected * before *0(4@37"'TCPConnection' has not been declared318722029#296#96#0(6@47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C18446744073515386601#7#0#7#0#25"'*' has not been declared0(4@37"'TCPConnection' has not been declared318722029#392#96#0(6@47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C18446744073515386601#8#0#8#0#25"'*' has not been declared0(0#0#47"/Users/jtherrell/src/DesignPatterns/TCPClosed.C8611350912#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/TCPClosed.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o /Users/jtherrell/src/DesignPatterns/abfactory.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722028.813722
+e318722028.862769
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o
+x/Users/jtherrell/src/DesignPatterns/abfactory.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/abfactory.C318722028#318722028#0(0"0(0#0#47"/Users/jtherrell/src/DesignPatterns/abfactory.C8611952160#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/abfactory.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o /Users/jtherrell/src/DesignPatterns/adapter.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722028.814595
+e318722028.845991
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o
+x/Users/jtherrell/src/DesignPatterns/adapter.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/adapter.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/adapter.C318722028#318722028#0(631"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,                 from /Users/jtherrell/src/DesignPatterns/adapter.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722028#143#106#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/adapter.C318722028#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/adapter.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722028#249#102#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/adapter.C318722028#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/adapter.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722028#351#103#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/adapter.C318722028#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/adapter.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722028#542#89#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/adapter.C318722028#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/adapter.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#45"/Users/jtherrell/src/DesignPatterns/adapter.C8611887712#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/adapter.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o /Users/jtherrell/src/DesignPatterns/bridge.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722028.856453
+e318722028.896146
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o
+x/Users/jtherrell/src/DesignPatterns/bridge.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/bridge.C:32:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+o/Users/jtherrell/src/DesignPatterns/bridge.C: At global scope:
+o/Users/jtherrell/src/DesignPatterns/bridge.C:38: error: ISO C++ forbids declaration of 'DrawOn' with no type
+o/Users/jtherrell/src/DesignPatterns/bridge.C:53: error: ISO C++ forbids declaration of 'XDrawRectangle' with no type
+lSLF07#2@52"Compile /Users/jtherrell/src/DesignPatterns/bridge.C318722028#318722028#0(920"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,                 from /Users/jtherrell/src/DesignPatterns/bridge.C:32:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'/Users/jtherrell/src/DesignPatterns/bridge.C: At global scope:/Users/jtherrell/src/DesignPatterns/bridge.C:38: error: ISO C++ forbids declaration of 'DrawOn' with no type/Users/jtherrell/src/DesignPatterns/bridge.C:53: error: ISO C++ forbids declaration of 'XDrawRectangle' with no type7(4@41"Redeclaration of C++ built-in type 'bool'318722028#143#106#3(7@66"In file included from /Users/jtherrell/src/DesignPatterns/bridge.C318722028#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#32#0#32#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722028#249#102#3(7@66"In file included from /Users/jtherrell/src/DesignPatterns/bridge.C318722028#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#32#0#32#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722028#351#103#3(7@66"In file included from /Users/jtherrell/src/DesignPatterns/bridge.C318722028#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#32#0#32#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722028#542#89#3(7@66"In file included from /Users/jtherrell/src/DesignPatterns/bridge.C318722028#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#32#0#32#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722028#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(23@16"At global scope:318722028#631#63#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#0#0#0#0#0"0(4@52"ISO C++ forbids declaration of 'DrawOn' with no type318722028#694#109#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#38#0#38#0#47"ISO C++ forbids declaration of '*' with no type0(4@60"ISO C++ forbids declaration of 'XDrawRectangle' with no type318722028#803#117#0(6@44"/Users/jtherrell/src/DesignPatterns/bridge.C318721976#53#0#53#0#47"ISO C++ forbids declaration of '*' with no type0(0#0#44"/Users/jtherrell/src/DesignPatterns/bridge.C8611789664#1386"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/bridge.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o /Users/jtherrell/src/DesignPatterns/builder.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722028.862873
+e318722029.257180
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o
+x/Users/jtherrell/src/DesignPatterns/builder.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/jtherrell/src/DesignPatterns/builder.C:6:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+oIn file included from /Users/jtherrell/src/DesignPatterns/builder.C:6:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/builder.C318722028#318722029#0(948"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/jtherrell/src/DesignPatterns/builder.C:6:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.In file included from /Users/jtherrell/src/DesignPatterns/builder.C:6:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope3(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.318722028#170#451#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/builder.C318722028#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/builder.C318721774#6#0#6#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722028#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h318722028#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(4@43"'ostream' is already declared in this scope318722029#692#128#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/builder.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/builder.C318721774#6#0#6#0#0"0(13@119"'ostream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(4@43"'istream' is already declared in this scope318722029#820#128#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/builder.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/builder.C318721774#6#0#6#0#0"0(13@119"'istream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(0#0#45"/Users/jtherrell/src/DesignPatterns/builder.C8611950656#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/builder.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o /Users/jtherrell/src/DesignPatterns/chain.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.226427
+e318722029.253910
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o
+x/Users/jtherrell/src/DesignPatterns/chain.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jtherrell/src/DesignPatterns/chain.C318722029#318722029#0(0"0(0#0#43"/Users/jtherrell/src/DesignPatterns/chain.C8611631392#1384"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/chain.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o /Users/jtherrell/src/DesignPatterns/command.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.254009
+e318722029.290556
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o
+x/Users/jtherrell/src/DesignPatterns/command.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/command.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/command.C318722029#318722029#0(631"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,                 from /Users/jtherrell/src/DesignPatterns/command.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722029#143#106#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/command.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/command.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#249#102#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/command.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/command.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#351#103#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/command.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/command.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#542#89#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/command.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/command.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#45"/Users/jtherrell/src/DesignPatterns/command.C8611467552#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/command.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o /Users/jtherrell/src/DesignPatterns/composite.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.257280
+e318722029.687200
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o
+x/Users/jtherrell/src/DesignPatterns/composite.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/jtherrell/src/DesignPatterns/composite.C:52:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/composite.C:51:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+oIn file included from /Users/jtherrell/src/DesignPatterns/composite.C:52:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/composite.C318722029#318722029#0(1679"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/jtherrell/src/DesignPatterns/composite.C:52:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,                 from /Users/jtherrell/src/DesignPatterns/composite.C:51:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'In file included from /Users/jtherrell/src/DesignPatterns/composite.C:52:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope8(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.318722029#173#451#3(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#52#0#52#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h318722029#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(4@41"Redeclaration of C++ built-in type 'bool'318722029#770#106#3(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#51#0#51#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#876#102#3(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#51#0#51#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#978#103#3(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#51#0#51#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#1169#89#3(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#51#0#51#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(23@16"At global scope:318722029#1332#91#2(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#52#0#52#0#0"0(13@92"At global scope: in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(4@43"'ostream' is already declared in this scope318722029#1423#128#2(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#52#0#52#0#0"0(13@119"'ostream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(4@43"'istream' is already declared in this scope318722029#1551#128#2(7@69"In file included from /Users/jtherrell/src/DesignPatterns/composite.C318722029#18446744073709551615#0#0(6@47"/Users/jtherrell/src/DesignPatterns/composite.C318721976#52#0#52#0#0"0(13@119"'istream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(0#0#47"/Users/jtherrell/src/DesignPatterns/composite.C8611292352#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/composite.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o /Users/jtherrell/src/DesignPatterns/decorator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721601.619916
+e318721601.656560
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o
+x/Users/jtherrell/src/DesignPatterns/decorator.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jtherrell/src/DesignPatterns/decorator.C:72: warning: ISO C++ forbids declaration of 'main' with no type
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/decorator.C318721601#318721601#0(112"/Users/jtherrell/src/DesignPatterns/decorator.C:72: warning: ISO C++ forbids declaration of 'main' with no type1(22@50"ISO C++ forbids declaration of 'main' with no type318721601#0#112#0(6@47"/Users/jtherrell/src/DesignPatterns/decorator.C18446744073515386455#72#0#72#0#47"ISO C++ forbids declaration of '*' with no type0(0#0#47"/Users/jtherrell/src/DesignPatterns/decorator.C8601512128#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/decorator.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o /Users/jtherrell/src/DesignPatterns/facade.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.290758
+e318722029.318990
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o
+x/Users/jtherrell/src/DesignPatterns/facade.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/facade.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'
+lSLF07#2@52"Compile /Users/jtherrell/src/DesignPatterns/facade.C318722029#318722029#0(558"In file included from /Users/jtherrell/src/DesignPatterns/facade.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722029#70#106#2(7@66"In file included from /Users/jtherrell/src/DesignPatterns/facade.C318722029#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/facade.C318721976#3#0#3#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#176#102#2(7@66"In file included from /Users/jtherrell/src/DesignPatterns/facade.C318722029#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/facade.C318721976#3#0#3#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#278#103#2(7@66"In file included from /Users/jtherrell/src/DesignPatterns/facade.C318722029#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/facade.C318721976#3#0#3#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#469#89#2(7@66"In file included from /Users/jtherrell/src/DesignPatterns/facade.C318722029#18446744073709551615#0#0(6@44"/Users/jtherrell/src/DesignPatterns/facade.C318721976#3#0#3#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#44"/Users/jtherrell/src/DesignPatterns/facade.C8608780832#1386"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/facade.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o /Users/jtherrell/src/DesignPatterns/factorymeth.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.319084
+e318722029.355726
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o
+x/Users/jtherrell/src/DesignPatterns/factorymeth.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/jtherrell/src/DesignPatterns/factorymeth.C318722029#318722029#0(0"0(0#0#49"/Users/jtherrell/src/DesignPatterns/factorymeth.C8607710880#1396"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/factorymeth.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o /Users/jtherrell/src/DesignPatterns/flyweight.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.355817
+e318722029.400246
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o
+x/Users/jtherrell/src/DesignPatterns/flyweight.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jtherrell/src/DesignPatterns/flyweight.C: In function 'void dummy()':
+o/Users/jtherrell/src/DesignPatterns/flyweight.C:69: warning: deprecated conversion from string constant to 'char*'
+o/Users/jtherrell/src/DesignPatterns/flyweight.C:70: warning: deprecated conversion from string constant to 'char*'
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/flyweight.C318722029#318722029#0(307"/Users/jtherrell/src/DesignPatterns/flyweight.C: In function 'void dummy()':/Users/jtherrell/src/DesignPatterns/flyweight.C:69: warning: deprecated conversion from string constant to 'char*'/Users/jtherrell/src/DesignPatterns/flyweight.C:70: warning: deprecated conversion from string constant to 'char*'2(22@53"Deprecated conversion from string constant to 'char*'318722029#77#115#0(6@47"/Users/jtherrell/src/DesignPatterns/flyweight.C318721976#69#0#69#0#49"deprecated conversion from string constant to '*'0(22@53"Deprecated conversion from string constant to 'char*'318722029#192#115#0(6@47"/Users/jtherrell/src/DesignPatterns/flyweight.C318721976#70#0#70#0#49"deprecated conversion from string constant to '*'0(0#0#47"/Users/jtherrell/src/DesignPatterns/flyweight.C8604031264#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/flyweight.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o /Users/jtherrell/src/DesignPatterns/interpreter.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.400346
+e318722029.448873
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o
+x/Users/jtherrell/src/DesignPatterns/interpreter.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jtherrell/src/DesignPatterns/interpreter.C:146: warning: ISO C++ forbids declaration of 'main' with no type
+lSLF07#2@57"Compile /Users/jtherrell/src/DesignPatterns/interpreter.C318722029#318722029#0(115"/Users/jtherrell/src/DesignPatterns/interpreter.C:146: warning: ISO C++ forbids declaration of 'main' with no type1(22@50"ISO C++ forbids declaration of 'main' with no type318722029#0#115#0(6@49"/Users/jtherrell/src/DesignPatterns/interpreter.C318721976#146#0#146#0#47"ISO C++ forbids declaration of '*' with no type0(0#0#49"/Users/jtherrell/src/DesignPatterns/interpreter.C8612185184#1396"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/interpreter.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o /Users/jtherrell/src/DesignPatterns/iterator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.448980
+e318722029.478898
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o
+x/Users/jtherrell/src/DesignPatterns/iterator.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/jtherrell/src/DesignPatterns/iterator.C: In member function 'virtual Item ListIterator<Item>::CurrentItem() const':
+o/Users/jtherrell/src/DesignPatterns/iterator.C:83: error: 'IteratorOutOfBounds' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/iterator.C: At global scope:
+o/Users/jtherrell/src/DesignPatterns/iterator.C:322: error: prototype for 'void FilteringListTraverser<Item>::Traverse()' does not match any in class 'FilteringListTraverser<Item>'
+o/Users/jtherrell/src/DesignPatterns/iterator.C:312: error: candidate is: bool FilteringListTraverser<Item>::Traverse()
+o/Users/jtherrell/src/DesignPatterns/iterator.C:322: error: template definition of non-template 'void FilteringListTraverser<Item>::Traverse()'
+lSLF07#2@54"Compile /Users/jtherrell/src/DesignPatterns/iterator.C318722029#318722029#0(741"/Users/jtherrell/src/DesignPatterns/iterator.C: In member function 'virtual Item ListIterator<Item>::CurrentItem() const':/Users/jtherrell/src/DesignPatterns/iterator.C:83: error: 'IteratorOutOfBounds' was not declared in this scope/Users/jtherrell/src/DesignPatterns/iterator.C: At global scope:/Users/jtherrell/src/DesignPatterns/iterator.C:322: error: prototype for 'void FilteringListTraverser<Item>::Traverse()' does not match any in class 'FilteringListTraverser<Item>'/Users/jtherrell/src/DesignPatterns/iterator.C:312: error: candidate is: bool FilteringListTraverser<Item>::Traverse()/Users/jtherrell/src/DesignPatterns/iterator.C:322: error: template definition of non-template 'void FilteringListTraverser<Item>::Traverse()'5(4@52"'IteratorOutOfBounds' was not declared in this scope318722029#123#111#0(6@46"/Users/jtherrell/src/DesignPatterns/iterator.C318721976#83#0#83#0#34"'*' was not declared in this scope0(23@16"At global scope:318722029#234#65#0(6@46"/Users/jtherrell/src/DesignPatterns/iterator.C318721976#0#0#0#0#0"0(4@120"Prototype for 'void FilteringListTraverser<Item>::Traverse()' does not match any in class 'FilteringListTraverser<Item>'318722029#299#180#0(6@46"/Users/jtherrell/src/DesignPatterns/iterator.C318721976#322#0#322#0#0"0(4@59"Candidate is: bool FilteringListTraverser<Item>::Traverse()318722029#479#119#0(6@46"/Users/jtherrell/src/DesignPatterns/iterator.C318721976#312#0#312#0#0"0(4@83"Template definition of non-template 'void FilteringListTraverser<Item>::Traverse()'318722029#598#143#0(6@46"/Users/jtherrell/src/DesignPatterns/iterator.C318721976#322#0#322#0#0"0(0#0#46"/Users/jtherrell/src/DesignPatterns/iterator.C8611954464#1390"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/iterator.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o /Users/jtherrell/src/DesignPatterns/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721499.624929
+e318721500.288546
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o
+x/Users/jtherrell/src/DesignPatterns/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/jtherrell/src/DesignPatterns/main.cpp318721499#318721500#0(0"0(0#0#44"/Users/jtherrell/src/DesignPatterns/main.cpp3275089324280537600#1384"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/main.cpp -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o /Users/jtherrell/src/DesignPatterns/C++/maze.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722028.896242
+e318722029.226341
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o
+x/Users/jtherrell/src/DesignPatterns/C++/maze.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/jtherrell/src/DesignPatterns/C++/maze.C:2:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:4:27: error: C++/MazeParts.h: No such file or directory
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:32:31: error: C++/MazeFactories.h: No such file or directory
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:268:26: error: C++/MazeGame.h: No such file or directory
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h:1,
+o                 from /Users/jtherrell/src/DesignPatterns/C++/maze.C:1:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C:2:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: 'Door' has not been declared
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: expected ',' or '...' before '&' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: ISO C++ forbids declaration of 'Door' with no type
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: ISO C++ forbids declaration of 'Door' with no type
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C: In function 'int Door(int)':
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:7: error: '_room1' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:7: error: 'other' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:8: error: '_room2' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C: At global scope:
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Door' is not a class or namespace
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: variable or field 'Initialize' declared void
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Room' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'r1' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Room' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'r2' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:16: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: 'BombedWall' has not been declared
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: expected ',' or '...' before '&' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: ISO C++ forbids declaration of 'BombedWall' with no type
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: ISO C++ forbids declaration of 'BombedWall' with no type
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C: In function 'int BombedWall(int)':
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: only constructors take base initializers
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: 'other' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:23: error: '_bomb' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C: At global scope:
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:26: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:33: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:35: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:37: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:39: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:42: error: expected constructor, destructor, or type conversion before '*' token
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:54: error: new declaration 'const char* getenv(const char*)'
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:161: error: ambiguates old declaration 'char* getenv(const char*)'
+o/Users/jtherrell/src/DesignPatterns/C++/maze.C:56: error: expected constructor, destructor, or type conversion before '*' token
+lSLF07#2@54"Compile /Users/jtherrell/src/DesignPatterns/C++/maze.C318722028#318722029#0(5506"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/jtherrell/src/DesignPatterns/C++/maze.C:2:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated./Users/jtherrell/src/DesignPatterns/C++/maze.C:4:27: error: C++/MazeParts.h: No such file or directory/Users/jtherrell/src/DesignPatterns/C++/maze.C:32:31: error: C++/MazeFactories.h: No such file or directory/Users/jtherrell/src/DesignPatterns/C++/maze.C:268:26: error: C++/MazeGame.h: No such file or directoryIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h:1,                 from /Users/jtherrell/src/DesignPatterns/C++/maze.C:1:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C:2:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: 'Door' has not been declared/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: expected ',' or '...' before '&' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: ISO C++ forbids declaration of 'Door' with no type/Users/jtherrell/src/DesignPatterns/C++/maze.C:6: error: ISO C++ forbids declaration of 'Door' with no type/Users/jtherrell/src/DesignPatterns/C++/maze.C: In function 'int Door(int)':/Users/jtherrell/src/DesignPatterns/C++/maze.C:7: error: '_room1' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:7: error: 'other' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:8: error: '_room2' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C: At global scope:/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Door' is not a class or namespace/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: variable or field 'Initialize' declared void/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Room' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'r1' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'Room' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:11: error: 'r2' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:16: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: 'BombedWall' has not been declared/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: expected ',' or '...' before '&' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: ISO C++ forbids declaration of 'BombedWall' with no type/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: ISO C++ forbids declaration of 'BombedWall' with no type/Users/jtherrell/src/DesignPatterns/C++/maze.C: In function 'int BombedWall(int)':/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: only constructors take base initializers/Users/jtherrell/src/DesignPatterns/C++/maze.C:22: error: 'other' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C:23: error: '_bomb' was not declared in this scope/Users/jtherrell/src/DesignPatterns/C++/maze.C: At global scope:/Users/jtherrell/src/DesignPatterns/C++/maze.C:26: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:33: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:35: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:37: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:39: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:42: error: expected constructor, destructor, or type conversion before '*' token/Users/jtherrell/src/DesignPatterns/C++/maze.C:54: error: new declaration 'const char* getenv(const char*)'/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h:161: error: ambiguates old declaration 'char* getenv(const char*)'/Users/jtherrell/src/DesignPatterns/C++/maze.C:56: error: expected constructor, destructor, or type conversion before '*' token43(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.318722028#171#451#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722028#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#2#0#2#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722028#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h318722028#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(4@42"C++/MazeParts.h: No such file or directory318722029#622#103#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#4#0#4#0#28"*: No such file or directory0(4@46"C++/MazeFactories.h: No such file or directory318722029#725#108#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#32#0#32#0#28"*: No such file or directory0(4@41"C++/MazeGame.h: No such file or directory318722029#833#104#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#268#0#268#0#28"*: No such file or directory0(4@41"Redeclaration of C++ built-in type 'bool'318722029#1081#106#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#1#0#1#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.h318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#1187#102#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#1#0#1#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.h318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#1289#103#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#1#0#1#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.h318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#1480#89#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#1#0#1#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.h318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.h318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(23@16"At global scope:318722029#1641#91#2(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#2#0#2#0#0"0(13@92"At global scope: in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(4@43"'ostream' is already declared in this scope318722029#1732#128#2(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#2#0#2#0#0"0(13@119"'ostream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(4@43"'istream' is already declared in this scope318722029#1860#128#2(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/maze.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#2#0#2#0#0"0(13@119"'istream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(4@28"'Door' has not been declared318722029#1988#86#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#6#0#6#0#25"'*' has not been declared0(4@38"Expected ',' or '...' before '&' token318722029#2074#96#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#6#0#6#0#19"expected * before *0(4@50"ISO C++ forbids declaration of 'Door' with no type318722029#2170#108#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#6#0#6#0#47"ISO C++ forbids declaration of '*' with no type0(4@50"ISO C++ forbids declaration of 'Door' with no type318722029#2278#108#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#6#0#6#0#47"ISO C++ forbids declaration of '*' with no type0(4@39"'_room1' was not declared in this scope318722029#2463#97#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#7#0#7#0#34"'*' was not declared in this scope0(4@38"'other' was not declared in this scope318722029#2560#96#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#7#0#7#0#34"'*' was not declared in this scope0(4@39"'_room2' was not declared in this scope318722029#2656#97#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#8#0#8#0#34"'*' was not declared in this scope0(23@16"At global scope:318722029#2753#65#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#0#0#0#0#0"0(4@34"'Door' is not a class or namespace318722029#2818#93#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#0"0(4@44"Variable or field 'Initialize' declared void318722029#2911#103#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#0"0(4@37"'Room' was not declared in this scope318722029#3014#96#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#34"'*' was not declared in this scope0(4@35"'r1' was not declared in this scope318722029#3110#94#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#34"'*' was not declared in this scope0(4@37"'Room' was not declared in this scope318722029#3204#96#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#34"'*' was not declared in this scope0(4@35"'r2' was not declared in this scope318722029#3300#94#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#11#0#11#0#34"'*' was not declared in this scope0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#3394#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#16#0#16#0#19"expected * before *0(4@34"'BombedWall' has not been declared318722029#3522#93#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#25"'*' has not been declared0(4@38"Expected ',' or '...' before '&' token318722029#3615#97#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#19"expected * before *0(4@56"ISO C++ forbids declaration of 'BombedWall' with no type318722029#3712#115#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#47"ISO C++ forbids declaration of '*' with no type0(4@56"ISO C++ forbids declaration of 'BombedWall' with no type318722029#3827#115#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#47"ISO C++ forbids declaration of '*' with no type0(4@40"Only constructors take base initializers318722029#4025#99#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#0"0(4@38"'other' was not declared in this scope318722029#4124#97#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#22#0#22#0#34"'*' was not declared in this scope0(4@38"'_bomb' was not declared in this scope318722029#4221#97#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#23#0#23#0#34"'*' was not declared in this scope0(23@16"At global scope:318722029#4318#65#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#0#0#0#0#0"0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#4383#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#26#0#26#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#4511#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#33#0#33#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#4639#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#35#0#35#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#4767#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#37#0#37#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#4895#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#39#0#39#0#19"expected * before *0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#5023#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#42#0#42#0#19"expected * before *0(4@49"New declaration 'const char* getenv(const char*)'318722029#5151#108#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#54#0#54#0#0"0(4@54"Ambiguates old declaration 'char* getenv(const char*)'318722029#5259#119#0(6@51"/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h292381801#161#0#161#0#0"0(4@69"Expected constructor, destructor, or type conversion before '*' token318722029#5378#128#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/maze.C318721976#56#0#56#0#19"expected * before *0(0#0#46"/Users/jtherrell/src/DesignPatterns/C++/maze.C8611450112#1386"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/C++/maze.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o /Users/jtherrell/src/DesignPatterns/mediator.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.485621
+e318722029.530249
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o
+x/Users/jtherrell/src/DesignPatterns/mediator.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/mediator.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+lSLF07#2@54"Compile /Users/jtherrell/src/DesignPatterns/mediator.C318722029#318722029#0(632"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,                 from /Users/jtherrell/src/DesignPatterns/mediator.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722029#144#106#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/mediator.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/mediator.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#250#102#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/mediator.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/mediator.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#352#103#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/mediator.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/mediator.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#543#89#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/mediator.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/mediator.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#46"/Users/jtherrell/src/DesignPatterns/mediator.C8604117600#1390"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/mediator.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o /Users/jtherrell/src/DesignPatterns/memento.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.530343
+e318722029.558553
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o
+x/Users/jtherrell/src/DesignPatterns/memento.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/memento.C:38:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/memento.C318722029#318722029#0(632"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,                 from /Users/jtherrell/src/DesignPatterns/memento.C:38:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722029#144#106#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/memento.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/memento.C318721976#38#0#38#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#250#102#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/memento.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/memento.C318721976#38#0#38#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#352#103#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/memento.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/memento.C318721976#38#0#38#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#543#89#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/memento.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/memento.C318721976#38#0#38#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#45"/Users/jtherrell/src/DesignPatterns/memento.C8611289792#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/memento.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o /Users/jtherrell/src/DesignPatterns/observer.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.558762
+e318722029.591785
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o
+x/Users/jtherrell/src/DesignPatterns/observer.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/observer.C:42:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+o/Users/jtherrell/src/DesignPatterns/observer.C: In member function 'virtual void DigitalClock::Draw()':
+o/Users/jtherrell/src/DesignPatterns/observer.C:155: warning: unused variable 'hour'
+o/Users/jtherrell/src/DesignPatterns/observer.C:156: warning: unused variable 'minute'
+lSLF07#2@54"Compile /Users/jtherrell/src/DesignPatterns/observer.C318722029#318722029#0(907"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H:1,                 from /Users/jtherrell/src/DesignPatterns/observer.C:42:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'/Users/jtherrell/src/DesignPatterns/observer.C: In member function 'virtual void DigitalClock::Draw()':/Users/jtherrell/src/DesignPatterns/observer.C:155: warning: unused variable 'hour'/Users/jtherrell/src/DesignPatterns/observer.C:156: warning: unused variable 'minute'6(4@41"Redeclaration of C++ built-in type 'bool'318722029#145#106#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/observer.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#42#0#42#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#251#102#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/observer.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#42#0#42#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#353#103#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/observer.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#42#0#42#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#544#89#3(7@68"In file included from /Users/jtherrell/src/DesignPatterns/observer.C318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#42#0#42#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/List.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/List.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(22@22"Unused variable 'hour'318722029#737#84#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#155#0#155#0#19"unused variable '*'0(22@24"Unused variable 'minute'318722029#821#86#0(6@46"/Users/jtherrell/src/DesignPatterns/observer.C318721976#156#0#156#0#19"unused variable '*'0(0#0#46"/Users/jtherrell/src/DesignPatterns/observer.C8611225440#1390"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/observer.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o /Users/jtherrell/src/DesignPatterns/prototype.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.591877
+e318722029.616925
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o
+x/Users/jtherrell/src/DesignPatterns/prototype.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/prototype.C318722029#318722029#0(0"0(0#0#47"/Users/jtherrell/src/DesignPatterns/prototype.C8611004448#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/prototype.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o /Users/jtherrell/src/DesignPatterns/proxy.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.617026
+e318722029.653198
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o
+x/Users/jtherrell/src/DesignPatterns/proxy.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,
+o                 from /Users/jtherrell/src/DesignPatterns/proxy.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'
+lSLF07#2@51"Compile /Users/jtherrell/src/DesignPatterns/proxy.C318722029#318722029#0(629"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H:1,                 from /Users/jtherrell/src/DesignPatterns/proxy.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.h: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.h:150: warning: unused variable 'tmp'4(4@41"Redeclaration of C++ built-in type 'bool'318722029#141#106#3(7@65"In file included from /Users/jtherrell/src/DesignPatterns/proxy.C318722029#18446744073709551615#0#0(6@43"/Users/jtherrell/src/DesignPatterns/proxy.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#247#102#3(7@65"In file included from /Users/jtherrell/src/DesignPatterns/proxy.C318722029#18446744073709551615#0#0(6@43"/Users/jtherrell/src/DesignPatterns/proxy.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#349#103#3(7@65"In file included from /Users/jtherrell/src/DesignPatterns/proxy.C318722029#18446744073709551615#0#0(6@43"/Users/jtherrell/src/DesignPatterns/proxy.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#540#89#3(7@65"In file included from /Users/jtherrell/src/DesignPatterns/proxy.C318722029#18446744073709551615#0#0(6@43"/Users/jtherrell/src/DesignPatterns/proxy.C318721976#3#0#3#0#0"0(7@68"In file included from /Users/jtherrell/src/DesignPatterns/C++/Geom.H318722029#18446744073709551615#0#0(6@46"/Users/jtherrell/src/DesignPatterns/C++/Geom.H318721976#1#0#1#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.h318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.h18446744073515386077#150#0#150#0#19"unused variable '*'0(0#0#43"/Users/jtherrell/src/DesignPatterns/proxy.C8606923424#1384"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/proxy.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o /Users/jtherrell/src/DesignPatterns/singleton.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721977.881971
+e318721977.933358
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o
+x/Users/jtherrell/src/DesignPatterns/singleton.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/singleton.C318721977#318721977#0(0"0(0#0#47"/Users/jtherrell/src/DesignPatterns/singleton.C8612118656#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/singleton.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o /Users/jtherrell/src/DesignPatterns/state.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721602.016134
+e318721602.059450
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o
+x/Users/jtherrell/src/DesignPatterns/state.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jtherrell/src/DesignPatterns/state.C318721602#318721602#0(0"0(0#0#43"/Users/jtherrell/src/DesignPatterns/state.C8604222912#1384"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/state.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o /Users/jtherrell/src/DesignPatterns/strategy.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318721977.933549
+e318721977.987011
+r1
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o
+x/Users/jtherrell/src/DesignPatterns/strategy.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/jtherrell/src/DesignPatterns/strategy.C318721977#318721977#0(0"0(0#0#46"/Users/jtherrell/src/DesignPatterns/strategy.C8611808128#1390"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/strategy.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o0#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o /Users/jtherrell/src/DesignPatterns/tmethod.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.682021
+e318722029.716743
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o
+x/Users/jtherrell/src/DesignPatterns/tmethod.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/jtherrell/src/DesignPatterns/tmethod.C:3:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'
+o/Users/jtherrell/src/DesignPatterns/tmethod.C: In member function 'void Application::OpenDocument(const char*)':
+o/Users/jtherrell/src/DesignPatterns/tmethod.C:31: error: '_docs' was not declared in this scope
+o/Users/jtherrell/src/DesignPatterns/tmethod.C:32: error: no matching function for call to 'Application::AboutToOpenDocument(Document*&)'
+o/Users/jtherrell/src/DesignPatterns/tmethod.C:12: note: candidates are: virtual void Application::AboutToOpenDocument()
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/tmethod.C318722029#318722029#0(1025"In file included from /Users/jtherrell/src/DesignPatterns/tmethod.C:3:/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'/Users/jtherrell/src/DesignPatterns/tmethod.C: In member function 'void Application::OpenDocument(const char*)':/Users/jtherrell/src/DesignPatterns/tmethod.C:31: error: '_docs' was not declared in this scope/Users/jtherrell/src/DesignPatterns/tmethod.C:32: error: no matching function for call to 'Application::AboutToOpenDocument(Document*&)'/Users/jtherrell/src/DesignPatterns/tmethod.C:12: note: candidates are: virtual void Application::AboutToOpenDocument()7(4@41"Redeclaration of C++ built-in type 'bool'318722029#71#106#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/tmethod.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#3#0#3#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#177#102#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/tmethod.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#3#0#3#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#279#103#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/tmethod.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#3#0#3#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#470#89#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/tmethod.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#3#0#3#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#19"unused variable '*'0(4@38"'_docs' was not declared in this scope318722029#672#96#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#31#0#31#0#34"'*' was not declared in this scope0(4@79"No matching function for call to 'Application::AboutToOpenDocument(Document*&)'318722029#768#137#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#32#0#32#0#0"0(13@63"Candidates are: virtual void Application::AboutToOpenDocument()318722029#905#120#0(6@45"/Users/jtherrell/src/DesignPatterns/tmethod.C318721976#12#0#12#0#0"0(0#0#45"/Users/jtherrell/src/DesignPatterns/tmethod.C8611251520#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/tmethod.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o1#
+
+CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o /Users/jtherrell/src/DesignPatterns/visitor.C normal x86_64 c++ com.apple.compilers.gcc.4_2
+s318722029.687286
+e318722029.998985
+r0
+xCompileC
+xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o
+x/Users/jtherrell/src/DesignPatterns/visitor.C
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/jtherrell/src/DesignPatterns/visitor.C:6:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+oIn file included from /Users/jtherrell/src/DesignPatterns/visitor.C:5:
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':
+o/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'
+oIn file included from /Users/jtherrell/src/DesignPatterns/visitor.C:6:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope
+lSLF07#2@53"Compile /Users/jtherrell/src/DesignPatterns/visitor.C318722029#318722029#0(1598"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/jtherrell/src/DesignPatterns/visitor.C:6:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.In file included from /Users/jtherrell/src/DesignPatterns/visitor.C:5:/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:13: error: redeclaration of C++ built-in type 'bool'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:14: error: expected unqualified-id before 'true'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:15: error: expected unqualified-id before 'false'/Users/jtherrell/src/DesignPatterns/C++/Foundation.H: In function 'void dummy_found()':/Users/jtherrell/src/DesignPatterns/C++/Foundation.H:150: warning: unused variable 'tmp'In file included from /Users/jtherrell/src/DesignPatterns/visitor.C:6:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h: At global scope:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:35: error: 'ostream' is already declared in this scope/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:36: error: 'istream' is already declared in this scope8(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.318722029#170#451#3(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#6#0#6#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h318722029#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h299093389#32#0#32#0#10"#warning *0(4@41"Redeclaration of C++ built-in type 'bool'318722029#692#106#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#5#0#5#0#0"0(13@97"Redeclaration of C++ built-in type 'bool' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#13#0#13#0#0"0(4@37"Expected unqualified-id before 'true'318722029#798#102#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#5#0#5#0#0"0(13@93"Expected unqualified-id before 'true' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#14#0#14#0#19"expected * before *0(4@38"Expected unqualified-id before 'false'318722029#900#103#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#5#0#5#0#0"0(13@94"Expected unqualified-id before 'false' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#15#0#15#0#19"expected * before *0(22@21"Unused variable 'tmp'318722029#1091#89#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#5#0#5#0#0"0(13@77"Unused variable 'tmp' in /Users/jtherrell/src/DesignPatterns/C++/Foundation.H318722029#18446744073709551615#0#0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#0"0(6@52"/Users/jtherrell/src/DesignPatterns/C++/Foundation.H18446744073515386077#150#0#150#0#19"unused variable '*'0(23@16"At global scope:318722029#1251#91#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#6#0#6#0#0"0(13@92"At global scope: in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#0#0#0#0#0"0(4@43"'ostream' is already declared in this scope318722029#1342#128#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#6#0#6#0#0"0(13@119"'ostream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#35#0#35#0#0"0(4@43"'istream' is already declared in this scope318722029#1470#128#2(7@67"In file included from /Users/jtherrell/src/DesignPatterns/visitor.C318722029#18446744073709551615#0#0(6@45"/Users/jtherrell/src/DesignPatterns/visitor.C318721976#6#0#6#0#0"0(13@119"'istream' is already declared in this scope in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h318722029#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h299093389#36#0#36#0#0"0(0#0#45"/Users/jtherrell/src/DesignPatterns/visitor.C8611185504#1388"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/visitor.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o1#
+
+CLd /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns normal x86_64
+s318721500.288656
+e318721500.664359
+r1
+xLd
+x/Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns
+xnormal
+xx86_64
+lSLF07#2@67"Link /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns318721500#318721500#0(0"0(0#0#0"8603722208#511"    cd /Users/jtherrell/src/DesignPatterns    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jtherrell/src/DesignPatterns/build/Debug -F/Users/jtherrell/src/DesignPatterns/build/Debug -filelist /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/DesignPatterns.LinkFileList -mmacosx-version-min=10.6 -o /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns0#
+

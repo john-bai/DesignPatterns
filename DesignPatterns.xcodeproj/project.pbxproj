@@ -1,0 +1,334 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		141D1F9812FF4E2C00F59DEA /* abfactory.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7612FF4E2C00F59DEA /* abfactory.C */; };
+		141D1F9912FF4E2C00F59DEA /* adapter.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7712FF4E2C00F59DEA /* adapter.C */; };
+		141D1F9A12FF4E2C00F59DEA /* bridge.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7812FF4E2C00F59DEA /* bridge.C */; };
+		141D1F9B12FF4E2C00F59DEA /* builder.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7912FF4E2C00F59DEA /* builder.C */; };
+		141D1F9C12FF4E2C00F59DEA /* maze.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7F12FF4E2C00F59DEA /* maze.C */; };
+		141D1F9D12FF4E2C00F59DEA /* chain.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8412FF4E2C00F59DEA /* chain.C */; };
+		141D1F9E12FF4E2C00F59DEA /* command.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8512FF4E2C00F59DEA /* command.C */; };
+		141D1F9F12FF4E2C00F59DEA /* composite.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8612FF4E2C00F59DEA /* composite.C */; };
+		141D1FA012FF4E2C00F59DEA /* decorator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8712FF4E2C00F59DEA /* decorator.C */; };
+		141D1FA112FF4E2C00F59DEA /* facade.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8812FF4E2C00F59DEA /* facade.C */; };
+		141D1FA212FF4E2C00F59DEA /* factorymeth.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8912FF4E2C00F59DEA /* factorymeth.C */; };
+		141D1FA312FF4E2C00F59DEA /* flyweight.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8A12FF4E2C00F59DEA /* flyweight.C */; };
+		141D1FA412FF4E2C00F59DEA /* interpreter.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8B12FF4E2C00F59DEA /* interpreter.C */; };
+		141D1FA512FF4E2C00F59DEA /* iterator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8C12FF4E2C00F59DEA /* iterator.C */; };
+		141D1FA612FF4E2C00F59DEA /* mediator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8D12FF4E2C00F59DEA /* mediator.C */; };
+		141D1FA712FF4E2C00F59DEA /* memento.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8E12FF4E2C00F59DEA /* memento.C */; };
+		141D1FA812FF4E2C00F59DEA /* observer.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8F12FF4E2C00F59DEA /* observer.C */; };
+		141D1FA912FF4E2C00F59DEA /* prototype.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9012FF4E2C00F59DEA /* prototype.C */; };
+		141D1FAA12FF4E2C00F59DEA /* proxy.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9112FF4E2C00F59DEA /* proxy.C */; };
+		141D1FAB12FF4E2C00F59DEA /* singleton.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9212FF4E2C00F59DEA /* singleton.C */; };
+		141D1FAC12FF4E2C00F59DEA /* state.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9312FF4E2C00F59DEA /* state.C */; };
+		141D1FAD12FF4E2C00F59DEA /* strategy.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9412FF4E2C00F59DEA /* strategy.C */; };
+		141D1FAE12FF4E2C00F59DEA /* TCPClosed.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9512FF4E2C00F59DEA /* TCPClosed.C */; };
+		141D1FAF12FF4E2C00F59DEA /* tmethod.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9612FF4E2C00F59DEA /* tmethod.C */; };
+		141D1FB012FF4E2C00F59DEA /* visitor.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9712FF4E2C00F59DEA /* visitor.C */; };
+		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
+		8DD76F6A0486A84900D96B5E /* DesignPatterns.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859E8B029090EE04C91782 /* DesignPatterns.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		8DD76F690486A84900D96B5E /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				8DD76F6A0486A84900D96B5E /* DesignPatterns.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		08FB7796FE84155DC02AAC07 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		141D1F7612FF4E2C00F59DEA /* abfactory.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abfactory.C; sourceTree = "<group>"; };
+		141D1F7712FF4E2C00F59DEA /* adapter.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = adapter.C; sourceTree = "<group>"; };
+		141D1F7812FF4E2C00F59DEA /* bridge.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bridge.C; sourceTree = "<group>"; };
+		141D1F7912FF4E2C00F59DEA /* builder.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = builder.C; sourceTree = "<group>"; };
+		141D1F7B12FF4E2C00F59DEA /* defs.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = defs.H; sourceTree = "<group>"; };
+		141D1F7C12FF4E2C00F59DEA /* Foundation.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Foundation.H; sourceTree = "<group>"; };
+		141D1F7D12FF4E2C00F59DEA /* Geom.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Geom.H; sourceTree = "<group>"; };
+		141D1F7E12FF4E2C00F59DEA /* List.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = List.H; sourceTree = "<group>"; };
+		141D1F7F12FF4E2C00F59DEA /* maze.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = maze.C; sourceTree = "<group>"; };
+		141D1F8012FF4E2C00F59DEA /* MazeFactories.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeFactories.H; sourceTree = "<group>"; };
+		141D1F8112FF4E2C00F59DEA /* MazeFactory.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeFactory.H; sourceTree = "<group>"; };
+		141D1F8212FF4E2C00F59DEA /* MazeGame.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeGame.H; sourceTree = "<group>"; };
+		141D1F8312FF4E2C00F59DEA /* MazeParts.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeParts.H; sourceTree = "<group>"; };
+		141D1F8412FF4E2C00F59DEA /* chain.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = chain.C; sourceTree = "<group>"; };
+		141D1F8512FF4E2C00F59DEA /* command.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = command.C; sourceTree = "<group>"; };
+		141D1F8612FF4E2C00F59DEA /* composite.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = composite.C; sourceTree = "<group>"; };
+		141D1F8712FF4E2C00F59DEA /* decorator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = decorator.C; sourceTree = "<group>"; };
+		141D1F8812FF4E2C00F59DEA /* facade.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = facade.C; sourceTree = "<group>"; };
+		141D1F8912FF4E2C00F59DEA /* factorymeth.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = factorymeth.C; sourceTree = "<group>"; };
+		141D1F8A12FF4E2C00F59DEA /* flyweight.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = flyweight.C; sourceTree = "<group>"; };
+		141D1F8B12FF4E2C00F59DEA /* interpreter.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interpreter.C; sourceTree = "<group>"; };
+		141D1F8C12FF4E2C00F59DEA /* iterator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = iterator.C; sourceTree = "<group>"; };
+		141D1F8D12FF4E2C00F59DEA /* mediator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mediator.C; sourceTree = "<group>"; };
+		141D1F8E12FF4E2C00F59DEA /* memento.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = memento.C; sourceTree = "<group>"; };
+		141D1F8F12FF4E2C00F59DEA /* observer.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = observer.C; sourceTree = "<group>"; };
+		141D1F9012FF4E2C00F59DEA /* prototype.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prototype.C; sourceTree = "<group>"; };
+		141D1F9112FF4E2C00F59DEA /* proxy.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = proxy.C; sourceTree = "<group>"; };
+		141D1F9212FF4E2C00F59DEA /* singleton.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = singleton.C; sourceTree = "<group>"; };
+		141D1F9312FF4E2C00F59DEA /* state.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = state.C; sourceTree = "<group>"; };
+		141D1F9412FF4E2C00F59DEA /* strategy.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = strategy.C; sourceTree = "<group>"; };
+		141D1F9512FF4E2C00F59DEA /* TCPClosed.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TCPClosed.C; sourceTree = "<group>"; };
+		141D1F9612FF4E2C00F59DEA /* tmethod.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tmethod.C; sourceTree = "<group>"; };
+		141D1F9712FF4E2C00F59DEA /* visitor.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = visitor.C; sourceTree = "<group>"; };
+		8DD76F6C0486A84900D96B5E /* DesignPatterns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DesignPatterns; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6859E8B029090EE04C91782 /* DesignPatterns.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DesignPatterns.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8DD76F660486A84900D96B5E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		08FB7794FE84155DC02AAC07 /* DesignPatterns */ = {
+			isa = PBXGroup;
+			children = (
+				08FB7795FE84155DC02AAC07 /* Source */,
+				C6859E8C029090F304C91782 /* Documentation */,
+				1AB674ADFE9D54B511CA2CBB /* Products */,
+			);
+			name = DesignPatterns;
+			sourceTree = "<group>";
+		};
+		08FB7795FE84155DC02AAC07 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				141D1F7612FF4E2C00F59DEA /* abfactory.C */,
+				141D1F7712FF4E2C00F59DEA /* adapter.C */,
+				141D1F7812FF4E2C00F59DEA /* bridge.C */,
+				141D1F7912FF4E2C00F59DEA /* builder.C */,
+				141D1F7A12FF4E2C00F59DEA /* C++ */,
+				141D1F8412FF4E2C00F59DEA /* chain.C */,
+				141D1F8512FF4E2C00F59DEA /* command.C */,
+				141D1F8612FF4E2C00F59DEA /* composite.C */,
+				141D1F8712FF4E2C00F59DEA /* decorator.C */,
+				141D1F8812FF4E2C00F59DEA /* facade.C */,
+				141D1F8912FF4E2C00F59DEA /* factorymeth.C */,
+				141D1F8A12FF4E2C00F59DEA /* flyweight.C */,
+				141D1F8B12FF4E2C00F59DEA /* interpreter.C */,
+				141D1F8C12FF4E2C00F59DEA /* iterator.C */,
+				141D1F8D12FF4E2C00F59DEA /* mediator.C */,
+				141D1F8E12FF4E2C00F59DEA /* memento.C */,
+				141D1F8F12FF4E2C00F59DEA /* observer.C */,
+				141D1F9012FF4E2C00F59DEA /* prototype.C */,
+				141D1F9112FF4E2C00F59DEA /* proxy.C */,
+				141D1F9212FF4E2C00F59DEA /* singleton.C */,
+				141D1F9312FF4E2C00F59DEA /* state.C */,
+				141D1F9412FF4E2C00F59DEA /* strategy.C */,
+				141D1F9512FF4E2C00F59DEA /* TCPClosed.C */,
+				141D1F9612FF4E2C00F59DEA /* tmethod.C */,
+				141D1F9712FF4E2C00F59DEA /* visitor.C */,
+				08FB7796FE84155DC02AAC07 /* main.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		141D1F7A12FF4E2C00F59DEA /* C++ */ = {
+			isa = PBXGroup;
+			children = (
+				141D1F7B12FF4E2C00F59DEA /* defs.H */,
+				141D1F7C12FF4E2C00F59DEA /* Foundation.H */,
+				141D1F7D12FF4E2C00F59DEA /* Geom.H */,
+				141D1F7E12FF4E2C00F59DEA /* List.H */,
+				141D1F7F12FF4E2C00F59DEA /* maze.C */,
+				141D1F8012FF4E2C00F59DEA /* MazeFactories.H */,
+				141D1F8112FF4E2C00F59DEA /* MazeFactory.H */,
+				141D1F8212FF4E2C00F59DEA /* MazeGame.H */,
+				141D1F8312FF4E2C00F59DEA /* MazeParts.H */,
+			);
+			path = "C++";
+			sourceTree = "<group>";
+		};
+		1AB674ADFE9D54B511CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8DD76F6C0486A84900D96B5E /* DesignPatterns */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C6859E8C029090F304C91782 /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				C6859E8B029090EE04C91782 /* DesignPatterns.1 */,
+			);
+			name = Documentation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8DD76F620486A84900D96B5E /* DesignPatterns */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "DesignPatterns" */;
+			buildPhases = (
+				8DD76F640486A84900D96B5E /* Sources */,
+				8DD76F660486A84900D96B5E /* Frameworks */,
+				8DD76F690486A84900D96B5E /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DesignPatterns;
+			productInstallPath = "$(HOME)/bin";
+			productName = DesignPatterns;
+			productReference = 8DD76F6C0486A84900D96B5E /* DesignPatterns */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		08FB7793FE84155DC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "DesignPatterns" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 08FB7794FE84155DC02AAC07 /* DesignPatterns */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD76F620486A84900D96B5E /* DesignPatterns */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8DD76F640486A84900D96B5E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8DD76F650486A84900D96B5E /* main.cpp in Sources */,
+				141D1F9812FF4E2C00F59DEA /* abfactory.C in Sources */,
+				141D1F9912FF4E2C00F59DEA /* adapter.C in Sources */,
+				141D1F9A12FF4E2C00F59DEA /* bridge.C in Sources */,
+				141D1F9B12FF4E2C00F59DEA /* builder.C in Sources */,
+				141D1F9C12FF4E2C00F59DEA /* maze.C in Sources */,
+				141D1F9D12FF4E2C00F59DEA /* chain.C in Sources */,
+				141D1F9E12FF4E2C00F59DEA /* command.C in Sources */,
+				141D1F9F12FF4E2C00F59DEA /* composite.C in Sources */,
+				141D1FA012FF4E2C00F59DEA /* decorator.C in Sources */,
+				141D1FA112FF4E2C00F59DEA /* facade.C in Sources */,
+				141D1FA212FF4E2C00F59DEA /* factorymeth.C in Sources */,
+				141D1FA312FF4E2C00F59DEA /* flyweight.C in Sources */,
+				141D1FA412FF4E2C00F59DEA /* interpreter.C in Sources */,
+				141D1FA512FF4E2C00F59DEA /* iterator.C in Sources */,
+				141D1FA612FF4E2C00F59DEA /* mediator.C in Sources */,
+				141D1FA712FF4E2C00F59DEA /* memento.C in Sources */,
+				141D1FA812FF4E2C00F59DEA /* observer.C in Sources */,
+				141D1FA912FF4E2C00F59DEA /* prototype.C in Sources */,
+				141D1FAA12FF4E2C00F59DEA /* proxy.C in Sources */,
+				141D1FAB12FF4E2C00F59DEA /* singleton.C in Sources */,
+				141D1FAC12FF4E2C00F59DEA /* state.C in Sources */,
+				141D1FAD12FF4E2C00F59DEA /* strategy.C in Sources */,
+				141D1FAE12FF4E2C00F59DEA /* TCPClosed.C in Sources */,
+				141D1FAF12FF4E2C00F59DEA /* tmethod.C in Sources */,
+				141D1FB012FF4E2C00F59DEA /* visitor.C in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB923208733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = DesignPatterns;
+			};
+			name = Debug;
+		};
+		1DEB923308733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_MODEL_TUNING = G5;
+				INSTALL_PATH = /usr/local/bin;
+				PRODUCT_NAME = DesignPatterns;
+			};
+			name = Release;
+		};
+		1DEB923608733DC60010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		1DEB923708733DC60010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB923108733DC60010E9CD /* Build configuration list for PBXNativeTarget "DesignPatterns" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923208733DC60010E9CD /* Debug */,
+				1DEB923308733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB923508733DC60010E9CD /* Build configuration list for PBXProject "DesignPatterns" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB923608733DC60010E9CD /* Debug */,
+				1DEB923708733DC60010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 08FB7793FE84155DC02AAC07 /* Project object */;
+}

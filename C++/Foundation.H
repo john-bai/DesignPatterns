@@ -1,12 +1,23 @@
+/*
+*/
 #ifndef Foundation_H
 #define Foundation_H
-
+/*
+*/
 class ostream;
 const long DEFAULT_LIST_CAPACITY = 200;
 #ifndef defs_h
 #define defs_h
+/*
+*/
+typedef int bool;
+const int true = 1;
+const int false = 0;
+/*
+*/
 #endif
-
+/*
+*/
 template <class Item>
 class List {
 public:
@@ -14,21 +25,25 @@ public:
     List(List&);
     ~List();
     List& operator=(const List&);
-
+/*
+*/
     long Count() const;
     Item& Get(long index) const;
     Item& First() const;
     Item& Last() const;
     bool Includes(const Item&) const;
-
+/*
+*/
     void Append(const Item&);
     void Prepend(const Item&);
-
+/*
+*/
     void Remove(const Item&);
     void RemoveLast();
     void RemoveFirst();
     void RemoveAll();
-
+/*
+*/
     Item& Top() const;
     void Push(const Item&);
     Item& Pop();
@@ -51,6 +66,8 @@ template <class Item>
 class ListIterator : public Iterator<Item> {
 public:
     ListIterator(const List<Item>* aList);
+/*
+*/
     virtual void First();
     virtual void Next();
     virtual bool IsDone() const;
