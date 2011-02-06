@@ -3,7 +3,6 @@
  *  DesignPatterns
  *
  *  Created by John Therrell on 1/30/11.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
  *
  */
 class Singleton {
