@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		141D1F9812FF4E2C00F59DEA /* abfactory.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7612FF4E2C00F59DEA /* abfactory.C */; };
-		141D1F9912FF4E2C00F59DEA /* adapter.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7712FF4E2C00F59DEA /* adapter.C */; };
-		141D1F9A12FF4E2C00F59DEA /* bridge.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7812FF4E2C00F59DEA /* bridge.C */; };
-		141D1F9B12FF4E2C00F59DEA /* builder.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7912FF4E2C00F59DEA /* builder.C */; };
-		141D1F9C12FF4E2C00F59DEA /* maze.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7F12FF4E2C00F59DEA /* maze.C */; };
-		141D1F9D12FF4E2C00F59DEA /* chain.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8412FF4E2C00F59DEA /* chain.C */; };
-		141D1F9E12FF4E2C00F59DEA /* command.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8512FF4E2C00F59DEA /* command.C */; };
-		141D1F9F12FF4E2C00F59DEA /* composite.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8612FF4E2C00F59DEA /* composite.C */; };
-		141D1FA012FF4E2C00F59DEA /* decorator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8712FF4E2C00F59DEA /* decorator.C */; };
-		141D1FA112FF4E2C00F59DEA /* facade.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8812FF4E2C00F59DEA /* facade.C */; };
-		141D1FA212FF4E2C00F59DEA /* factorymeth.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8912FF4E2C00F59DEA /* factorymeth.C */; };
-		141D1FA312FF4E2C00F59DEA /* flyweight.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8A12FF4E2C00F59DEA /* flyweight.C */; };
-		141D1FA412FF4E2C00F59DEA /* interpreter.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8B12FF4E2C00F59DEA /* interpreter.C */; };
-		141D1FA512FF4E2C00F59DEA /* iterator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8C12FF4E2C00F59DEA /* iterator.C */; };
-		141D1FA612FF4E2C00F59DEA /* mediator.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8D12FF4E2C00F59DEA /* mediator.C */; };
-		141D1FA712FF4E2C00F59DEA /* memento.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8E12FF4E2C00F59DEA /* memento.C */; };
-		141D1FA812FF4E2C00F59DEA /* observer.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8F12FF4E2C00F59DEA /* observer.C */; };
-		141D1FA912FF4E2C00F59DEA /* prototype.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9012FF4E2C00F59DEA /* prototype.C */; };
-		141D1FAA12FF4E2C00F59DEA /* proxy.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9112FF4E2C00F59DEA /* proxy.C */; };
-		141D1FAB12FF4E2C00F59DEA /* singleton.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9212FF4E2C00F59DEA /* singleton.C */; };
-		141D1FAC12FF4E2C00F59DEA /* state.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9312FF4E2C00F59DEA /* state.C */; };
-		141D1FAD12FF4E2C00F59DEA /* strategy.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9412FF4E2C00F59DEA /* strategy.C */; };
-		141D1FAE12FF4E2C00F59DEA /* TCPClosed.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9512FF4E2C00F59DEA /* TCPClosed.C */; };
-		141D1FAF12FF4E2C00F59DEA /* tmethod.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9612FF4E2C00F59DEA /* tmethod.C */; };
-		141D1FB012FF4E2C00F59DEA /* visitor.C in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9712FF4E2C00F59DEA /* visitor.C */; };
+		141D1F9812FF4E2C00F59DEA /* abfactory.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7612FF4E2C00F59DEA /* abfactory.cpp */; };
+		141D1F9912FF4E2C00F59DEA /* adapter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7712FF4E2C00F59DEA /* adapter.cpp */; };
+		141D1F9A12FF4E2C00F59DEA /* bridge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7812FF4E2C00F59DEA /* bridge.cpp */; };
+		141D1F9B12FF4E2C00F59DEA /* builder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7912FF4E2C00F59DEA /* builder.cpp */; };
+		141D1F9C12FF4E2C00F59DEA /* maze.h in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7F12FF4E2C00F59DEA /* maze.h */; };
+		141D1F9D12FF4E2C00F59DEA /* chain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8412FF4E2C00F59DEA /* chain.cpp */; };
+		141D1F9E12FF4E2C00F59DEA /* command.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8512FF4E2C00F59DEA /* command.cpp */; };
+		141D1F9F12FF4E2C00F59DEA /* composite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8612FF4E2C00F59DEA /* composite.cpp */; };
+		141D1FA012FF4E2C00F59DEA /* decorator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8712FF4E2C00F59DEA /* decorator.cpp */; };
+		141D1FA112FF4E2C00F59DEA /* facade.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8812FF4E2C00F59DEA /* facade.cpp */; };
+		141D1FA212FF4E2C00F59DEA /* factorymeth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8912FF4E2C00F59DEA /* factorymeth.cpp */; };
+		141D1FA312FF4E2C00F59DEA /* flyweight.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8A12FF4E2C00F59DEA /* flyweight.cpp */; };
+		141D1FA412FF4E2C00F59DEA /* interpreter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8B12FF4E2C00F59DEA /* interpreter.cpp */; };
+		141D1FA512FF4E2C00F59DEA /* iterator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8C12FF4E2C00F59DEA /* iterator.cpp */; };
+		141D1FA612FF4E2C00F59DEA /* mediator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8D12FF4E2C00F59DEA /* mediator.cpp */; };
+		141D1FA712FF4E2C00F59DEA /* memento.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8E12FF4E2C00F59DEA /* memento.cpp */; };
+		141D1FA812FF4E2C00F59DEA /* observer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8F12FF4E2C00F59DEA /* observer.cpp */; };
+		141D1FA912FF4E2C00F59DEA /* prototype.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9012FF4E2C00F59DEA /* prototype.cpp */; };
+		141D1FAA12FF4E2C00F59DEA /* proxy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9112FF4E2C00F59DEA /* proxy.cpp */; };
+		141D1FAB12FF4E2C00F59DEA /* singleton.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9212FF4E2C00F59DEA /* singleton.cpp */; };
+		141D1FAC12FF4E2C00F59DEA /* state.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9312FF4E2C00F59DEA /* state.cpp */; };
+		141D1FAD12FF4E2C00F59DEA /* strategy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9412FF4E2C00F59DEA /* strategy.cpp */; };
+		141D1FAE12FF4E2C00F59DEA /* TCPClosed.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9512FF4E2C00F59DEA /* TCPClosed.cpp */; };
+		141D1FAF12FF4E2C00F59DEA /* tmethod.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9612FF4E2C00F59DEA /* tmethod.cpp */; };
+		141D1FB012FF4E2C00F59DEA /* visitor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F9712FF4E2C00F59DEA /* visitor.cpp */; };
 		8DD76F650486A84900D96B5E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* main.cpp */; settings = {ATTRIBUTES = (); }; };
 		8DD76F6A0486A84900D96B5E /* DesignPatterns.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859E8B029090EE04C91782 /* DesignPatterns.1 */; };
 /* End PBXBuildFile section */
@@ -51,39 +51,39 @@
 
 /* Begin PBXFileReference section */
 		08FB7796FE84155DC02AAC07 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		141D1F7612FF4E2C00F59DEA /* abfactory.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abfactory.C; sourceTree = "<group>"; };
-		141D1F7712FF4E2C00F59DEA /* adapter.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = adapter.C; sourceTree = "<group>"; };
-		141D1F7812FF4E2C00F59DEA /* bridge.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bridge.C; sourceTree = "<group>"; };
-		141D1F7912FF4E2C00F59DEA /* builder.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = builder.C; sourceTree = "<group>"; };
-		141D1F7B12FF4E2C00F59DEA /* defs.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = defs.H; sourceTree = "<group>"; };
-		141D1F7C12FF4E2C00F59DEA /* Foundation.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Foundation.H; sourceTree = "<group>"; };
-		141D1F7D12FF4E2C00F59DEA /* Geom.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = Geom.H; sourceTree = "<group>"; };
-		141D1F7E12FF4E2C00F59DEA /* List.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = List.H; sourceTree = "<group>"; };
-		141D1F7F12FF4E2C00F59DEA /* maze.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = maze.C; sourceTree = "<group>"; };
-		141D1F8012FF4E2C00F59DEA /* MazeFactories.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeFactories.H; sourceTree = "<group>"; };
-		141D1F8112FF4E2C00F59DEA /* MazeFactory.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeFactory.H; sourceTree = "<group>"; };
-		141D1F8212FF4E2C00F59DEA /* MazeGame.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeGame.H; sourceTree = "<group>"; };
-		141D1F8312FF4E2C00F59DEA /* MazeParts.H */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = MazeParts.H; sourceTree = "<group>"; };
-		141D1F8412FF4E2C00F59DEA /* chain.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = chain.C; sourceTree = "<group>"; };
-		141D1F8512FF4E2C00F59DEA /* command.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = command.C; sourceTree = "<group>"; };
-		141D1F8612FF4E2C00F59DEA /* composite.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = composite.C; sourceTree = "<group>"; };
-		141D1F8712FF4E2C00F59DEA /* decorator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = decorator.C; sourceTree = "<group>"; };
-		141D1F8812FF4E2C00F59DEA /* facade.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = facade.C; sourceTree = "<group>"; };
-		141D1F8912FF4E2C00F59DEA /* factorymeth.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = factorymeth.C; sourceTree = "<group>"; };
-		141D1F8A12FF4E2C00F59DEA /* flyweight.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = flyweight.C; sourceTree = "<group>"; };
-		141D1F8B12FF4E2C00F59DEA /* interpreter.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interpreter.C; sourceTree = "<group>"; };
-		141D1F8C12FF4E2C00F59DEA /* iterator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = iterator.C; sourceTree = "<group>"; };
-		141D1F8D12FF4E2C00F59DEA /* mediator.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mediator.C; sourceTree = "<group>"; };
-		141D1F8E12FF4E2C00F59DEA /* memento.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = memento.C; sourceTree = "<group>"; };
-		141D1F8F12FF4E2C00F59DEA /* observer.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = observer.C; sourceTree = "<group>"; };
-		141D1F9012FF4E2C00F59DEA /* prototype.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prototype.C; sourceTree = "<group>"; };
-		141D1F9112FF4E2C00F59DEA /* proxy.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = proxy.C; sourceTree = "<group>"; };
-		141D1F9212FF4E2C00F59DEA /* singleton.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = singleton.C; sourceTree = "<group>"; };
-		141D1F9312FF4E2C00F59DEA /* state.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = state.C; sourceTree = "<group>"; };
-		141D1F9412FF4E2C00F59DEA /* strategy.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = strategy.C; sourceTree = "<group>"; };
-		141D1F9512FF4E2C00F59DEA /* TCPClosed.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TCPClosed.C; sourceTree = "<group>"; };
-		141D1F9612FF4E2C00F59DEA /* tmethod.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tmethod.C; sourceTree = "<group>"; };
-		141D1F9712FF4E2C00F59DEA /* visitor.C */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = visitor.C; sourceTree = "<group>"; };
+		141D1F7612FF4E2C00F59DEA /* abfactory.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = abfactory.cpp; sourceTree = "<group>"; };
+		141D1F7712FF4E2C00F59DEA /* adapter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = adapter.cpp; sourceTree = "<group>"; };
+		141D1F7812FF4E2C00F59DEA /* bridge.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bridge.cpp; sourceTree = "<group>"; };
+		141D1F7912FF4E2C00F59DEA /* builder.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = builder.cpp; sourceTree = "<group>"; };
+		141D1F7B12FF4E2C00F59DEA /* defs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = defs.h; sourceTree = "<group>"; };
+		141D1F7C12FF4E2C00F59DEA /* Foundation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Foundation.h; sourceTree = "<group>"; };
+		141D1F7D12FF4E2C00F59DEA /* Geom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Geom.h; sourceTree = "<group>"; };
+		141D1F7E12FF4E2C00F59DEA /* List.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = List.h; sourceTree = "<group>"; };
+		141D1F7F12FF4E2C00F59DEA /* maze.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = maze.h; sourceTree = "<group>"; };
+		141D1F8012FF4E2C00F59DEA /* MazeFactories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeFactories.h; sourceTree = "<group>"; };
+		141D1F8112FF4E2C00F59DEA /* MazeFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeFactory.h; sourceTree = "<group>"; };
+		141D1F8212FF4E2C00F59DEA /* MazeGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeGame.h; sourceTree = "<group>"; };
+		141D1F8312FF4E2C00F59DEA /* MazeParts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MazeParts.h; sourceTree = "<group>"; };
+		141D1F8412FF4E2C00F59DEA /* chain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = chain.cpp; sourceTree = "<group>"; };
+		141D1F8512FF4E2C00F59DEA /* command.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = command.cpp; sourceTree = "<group>"; };
+		141D1F8612FF4E2C00F59DEA /* composite.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = composite.cpp; sourceTree = "<group>"; };
+		141D1F8712FF4E2C00F59DEA /* decorator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = decorator.cpp; sourceTree = "<group>"; };
+		141D1F8812FF4E2C00F59DEA /* facade.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = facade.cpp; sourceTree = "<group>"; };
+		141D1F8912FF4E2C00F59DEA /* factorymeth.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = factorymeth.cpp; sourceTree = "<group>"; };
+		141D1F8A12FF4E2C00F59DEA /* flyweight.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = flyweight.cpp; sourceTree = "<group>"; };
+		141D1F8B12FF4E2C00F59DEA /* interpreter.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = interpreter.cpp; sourceTree = "<group>"; };
+		141D1F8C12FF4E2C00F59DEA /* iterator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = iterator.cpp; sourceTree = "<group>"; };
+		141D1F8D12FF4E2C00F59DEA /* mediator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = mediator.cpp; sourceTree = "<group>"; };
+		141D1F8E12FF4E2C00F59DEA /* memento.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = memento.cpp; sourceTree = "<group>"; };
+		141D1F8F12FF4E2C00F59DEA /* observer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = observer.cpp; sourceTree = "<group>"; };
+		141D1F9012FF4E2C00F59DEA /* prototype.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prototype.cpp; sourceTree = "<group>"; };
+		141D1F9112FF4E2C00F59DEA /* proxy.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = proxy.cpp; sourceTree = "<group>"; };
+		141D1F9212FF4E2C00F59DEA /* singleton.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = singleton.cpp; sourceTree = "<group>"; };
+		141D1F9312FF4E2C00F59DEA /* state.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = state.cpp; sourceTree = "<group>"; };
+		141D1F9412FF4E2C00F59DEA /* strategy.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = strategy.cpp; sourceTree = "<group>"; };
+		141D1F9512FF4E2C00F59DEA /* TCPClosed.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TCPClosed.cpp; sourceTree = "<group>"; };
+		141D1F9612FF4E2C00F59DEA /* tmethod.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tmethod.cpp; sourceTree = "<group>"; };
+		141D1F9712FF4E2C00F59DEA /* visitor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = visitor.cpp; sourceTree = "<group>"; };
 		8DD76F6C0486A84900D96B5E /* DesignPatterns */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DesignPatterns; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859E8B029090EE04C91782 /* DesignPatterns.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = DesignPatterns.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,31 +112,31 @@
 		08FB7795FE84155DC02AAC07 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				141D1F7612FF4E2C00F59DEA /* abfactory.C */,
-				141D1F7712FF4E2C00F59DEA /* adapter.C */,
-				141D1F7812FF4E2C00F59DEA /* bridge.C */,
-				141D1F7912FF4E2C00F59DEA /* builder.C */,
+				141D1F7612FF4E2C00F59DEA /* abfactory.cpp */,
+				141D1F7712FF4E2C00F59DEA /* adapter.cpp */,
+				141D1F7812FF4E2C00F59DEA /* bridge.cpp */,
+				141D1F7912FF4E2C00F59DEA /* builder.cpp */,
 				141D1F7A12FF4E2C00F59DEA /* C++ */,
-				141D1F8412FF4E2C00F59DEA /* chain.C */,
-				141D1F8512FF4E2C00F59DEA /* command.C */,
-				141D1F8612FF4E2C00F59DEA /* composite.C */,
-				141D1F8712FF4E2C00F59DEA /* decorator.C */,
-				141D1F8812FF4E2C00F59DEA /* facade.C */,
-				141D1F8912FF4E2C00F59DEA /* factorymeth.C */,
-				141D1F8A12FF4E2C00F59DEA /* flyweight.C */,
-				141D1F8B12FF4E2C00F59DEA /* interpreter.C */,
-				141D1F8C12FF4E2C00F59DEA /* iterator.C */,
-				141D1F8D12FF4E2C00F59DEA /* mediator.C */,
-				141D1F8E12FF4E2C00F59DEA /* memento.C */,
-				141D1F8F12FF4E2C00F59DEA /* observer.C */,
-				141D1F9012FF4E2C00F59DEA /* prototype.C */,
-				141D1F9112FF4E2C00F59DEA /* proxy.C */,
-				141D1F9212FF4E2C00F59DEA /* singleton.C */,
-				141D1F9312FF4E2C00F59DEA /* state.C */,
-				141D1F9412FF4E2C00F59DEA /* strategy.C */,
-				141D1F9512FF4E2C00F59DEA /* TCPClosed.C */,
-				141D1F9612FF4E2C00F59DEA /* tmethod.C */,
-				141D1F9712FF4E2C00F59DEA /* visitor.C */,
+				141D1F8412FF4E2C00F59DEA /* chain.cpp */,
+				141D1F8512FF4E2C00F59DEA /* command.cpp */,
+				141D1F8612FF4E2C00F59DEA /* composite.cpp */,
+				141D1F8712FF4E2C00F59DEA /* decorator.cpp */,
+				141D1F8812FF4E2C00F59DEA /* facade.cpp */,
+				141D1F8912FF4E2C00F59DEA /* factorymeth.cpp */,
+				141D1F8A12FF4E2C00F59DEA /* flyweight.cpp */,
+				141D1F8B12FF4E2C00F59DEA /* interpreter.cpp */,
+				141D1F8C12FF4E2C00F59DEA /* iterator.cpp */,
+				141D1F8D12FF4E2C00F59DEA /* mediator.cpp */,
+				141D1F8E12FF4E2C00F59DEA /* memento.cpp */,
+				141D1F8F12FF4E2C00F59DEA /* observer.cpp */,
+				141D1F9012FF4E2C00F59DEA /* prototype.cpp */,
+				141D1F9112FF4E2C00F59DEA /* proxy.cpp */,
+				141D1F9212FF4E2C00F59DEA /* singleton.cpp */,
+				141D1F9312FF4E2C00F59DEA /* state.cpp */,
+				141D1F9412FF4E2C00F59DEA /* strategy.cpp */,
+				141D1F9512FF4E2C00F59DEA /* TCPClosed.cpp */,
+				141D1F9612FF4E2C00F59DEA /* tmethod.cpp */,
+				141D1F9712FF4E2C00F59DEA /* visitor.cpp */,
 				08FB7796FE84155DC02AAC07 /* main.cpp */,
 			);
 			name = Source;
@@ -145,15 +145,15 @@
 		141D1F7A12FF4E2C00F59DEA /* C++ */ = {
 			isa = PBXGroup;
 			children = (
-				141D1F7B12FF4E2C00F59DEA /* defs.H */,
-				141D1F7C12FF4E2C00F59DEA /* Foundation.H */,
-				141D1F7D12FF4E2C00F59DEA /* Geom.H */,
-				141D1F7E12FF4E2C00F59DEA /* List.H */,
-				141D1F7F12FF4E2C00F59DEA /* maze.C */,
-				141D1F8012FF4E2C00F59DEA /* MazeFactories.H */,
-				141D1F8112FF4E2C00F59DEA /* MazeFactory.H */,
-				141D1F8212FF4E2C00F59DEA /* MazeGame.H */,
-				141D1F8312FF4E2C00F59DEA /* MazeParts.H */,
+				141D1F7B12FF4E2C00F59DEA /* defs.h */,
+				141D1F7C12FF4E2C00F59DEA /* Foundation.h */,
+				141D1F7D12FF4E2C00F59DEA /* Geom.h */,
+				141D1F7E12FF4E2C00F59DEA /* List.h */,
+				141D1F7F12FF4E2C00F59DEA /* maze.h */,
+				141D1F8012FF4E2C00F59DEA /* MazeFactories.h */,
+				141D1F8112FF4E2C00F59DEA /* MazeFactory.h */,
+				141D1F8212FF4E2C00F59DEA /* MazeGame.h */,
+				141D1F8312FF4E2C00F59DEA /* MazeParts.h */,
 			);
 			path = "C++";
 			sourceTree = "<group>";
@@ -225,31 +225,31 @@
 			buildActionMask = 2147483647;
 			files = (
 				8DD76F650486A84900D96B5E /* main.cpp in Sources */,
-				141D1F9812FF4E2C00F59DEA /* abfactory.C in Sources */,
-				141D1F9912FF4E2C00F59DEA /* adapter.C in Sources */,
-				141D1F9A12FF4E2C00F59DEA /* bridge.C in Sources */,
-				141D1F9B12FF4E2C00F59DEA /* builder.C in Sources */,
-				141D1F9C12FF4E2C00F59DEA /* maze.C in Sources */,
-				141D1F9D12FF4E2C00F59DEA /* chain.C in Sources */,
-				141D1F9E12FF4E2C00F59DEA /* command.C in Sources */,
-				141D1F9F12FF4E2C00F59DEA /* composite.C in Sources */,
-				141D1FA012FF4E2C00F59DEA /* decorator.C in Sources */,
-				141D1FA112FF4E2C00F59DEA /* facade.C in Sources */,
-				141D1FA212FF4E2C00F59DEA /* factorymeth.C in Sources */,
-				141D1FA312FF4E2C00F59DEA /* flyweight.C in Sources */,
-				141D1FA412FF4E2C00F59DEA /* interpreter.C in Sources */,
-				141D1FA512FF4E2C00F59DEA /* iterator.C in Sources */,
-				141D1FA612FF4E2C00F59DEA /* mediator.C in Sources */,
-				141D1FA712FF4E2C00F59DEA /* memento.C in Sources */,
-				141D1FA812FF4E2C00F59DEA /* observer.C in Sources */,
-				141D1FA912FF4E2C00F59DEA /* prototype.C in Sources */,
-				141D1FAA12FF4E2C00F59DEA /* proxy.C in Sources */,
-				141D1FAB12FF4E2C00F59DEA /* singleton.C in Sources */,
-				141D1FAC12FF4E2C00F59DEA /* state.C in Sources */,
-				141D1FAD12FF4E2C00F59DEA /* strategy.C in Sources */,
-				141D1FAE12FF4E2C00F59DEA /* TCPClosed.C in Sources */,
-				141D1FAF12FF4E2C00F59DEA /* tmethod.C in Sources */,
-				141D1FB012FF4E2C00F59DEA /* visitor.C in Sources */,
+				141D1F9812FF4E2C00F59DEA /* abfactory.cpp in Sources */,
+				141D1F9912FF4E2C00F59DEA /* adapter.cpp in Sources */,
+				141D1F9A12FF4E2C00F59DEA /* bridge.cpp in Sources */,
+				141D1F9B12FF4E2C00F59DEA /* builder.cpp in Sources */,
+				141D1F9C12FF4E2C00F59DEA /* maze.h in Sources */,
+				141D1F9D12FF4E2C00F59DEA /* chain.cpp in Sources */,
+				141D1F9E12FF4E2C00F59DEA /* command.cpp in Sources */,
+				141D1F9F12FF4E2C00F59DEA /* composite.cpp in Sources */,
+				141D1FA012FF4E2C00F59DEA /* decorator.cpp in Sources */,
+				141D1FA112FF4E2C00F59DEA /* facade.cpp in Sources */,
+				141D1FA212FF4E2C00F59DEA /* factorymeth.cpp in Sources */,
+				141D1FA312FF4E2C00F59DEA /* flyweight.cpp in Sources */,
+				141D1FA412FF4E2C00F59DEA /* interpreter.cpp in Sources */,
+				141D1FA512FF4E2C00F59DEA /* iterator.cpp in Sources */,
+				141D1FA612FF4E2C00F59DEA /* mediator.cpp in Sources */,
+				141D1FA712FF4E2C00F59DEA /* memento.cpp in Sources */,
+				141D1FA812FF4E2C00F59DEA /* observer.cpp in Sources */,
+				141D1FA912FF4E2C00F59DEA /* prototype.cpp in Sources */,
+				141D1FAA12FF4E2C00F59DEA /* proxy.cpp in Sources */,
+				141D1FAB12FF4E2C00F59DEA /* singleton.cpp in Sources */,
+				141D1FAC12FF4E2C00F59DEA /* state.cpp in Sources */,
+				141D1FAD12FF4E2C00F59DEA /* strategy.cpp in Sources */,
+				141D1FAE12FF4E2C00F59DEA /* TCPClosed.cpp in Sources */,
+				141D1FAF12FF4E2C00F59DEA /* tmethod.cpp in Sources */,
+				141D1FB012FF4E2C00F59DEA /* visitor.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

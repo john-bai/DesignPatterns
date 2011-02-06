@@ -86,23 +86,233 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	141D1F7612FF4E2C00F59DEA /* abfactory.C */ = {
+	141D1F7612FF4E2C00F59DEA /* abfactory.cpp */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {519, 1504}}";
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 268}";
 		};
 	};
-	141D1F9012FF4E2C00F59DEA /* prototype.C */ = {
+	141D1F7712FF4E2C00F59DEA /* adapter.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {720, 2272}}";
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2112}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 228}";
+			sepNavVisRange = "{0, 259}";
+		};
+	};
+	141D1F7812FF4E2C00F59DEA /* bridge.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3984}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 194}";
+		};
+	};
+	141D1F7912FF4E2C00F59DEA /* builder.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2736}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 301}";
+		};
+	};
+	141D1F7B12FF4E2C00F59DEA /* defs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{74, 0}";
+			sepNavVisRange = "{0, 156}";
+		};
+	};
+	141D1F7C12FF4E2C00F59DEA /* Foundation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2672}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 207}";
+		};
+	};
+	141D1F7D12FF4E2C00F59DEA /* Geom.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 110}";
+		};
+	};
+	141D1F7E12FF4E2C00F59DEA /* List.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 24}";
+		};
+	};
+	141D1F7F12FF4E2C00F59DEA /* maze.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 7296}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 270}";
+		};
+	};
+	141D1F8012FF4E2C00F59DEA /* MazeFactories.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 399}";
+		};
+	};
+	141D1F8112FF4E2C00F59DEA /* MazeFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 448}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	141D1F8212FF4E2C00F59DEA /* MazeGame.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 560}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	141D1F8312FF4E2C00F59DEA /* MazeParts.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2320}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	141D1F8412FF4E2C00F59DEA /* chain.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3600}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 249}";
+		};
+	};
+	141D1F8512FF4E2C00F59DEA /* command.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2528}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	141D1F8612FF4E2C00F59DEA /* composite.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2784}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	141D1F8712FF4E2C00F59DEA /* decorator.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2160}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	141D1F8812FF4E2C00F59DEA /* facade.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2528}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	141D1F8912FF4E2C00F59DEA /* factorymeth.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3040}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	141D1F8A12FF4E2C00F59DEA /* flyweight.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2208}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 165}";
+		};
+	};
+	141D1F8B12FF4E2C00F59DEA /* interpreter.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2928}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 267}";
+		};
+	};
+	141D1F8C12FF4E2C00F59DEA /* iterator.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 5520}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	141D1F8D12FF4E2C00F59DEA /* mediator.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2112}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 208}";
+		};
+	};
+	141D1F8E12FF4E2C00F59DEA /* memento.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2608}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 221}";
+		};
+	};
+	141D1F8F12FF4E2C00F59DEA /* observer.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2912}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	141D1F9012FF4E2C00F59DEA /* prototype.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2400}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2098, 197}";
+		};
+	};
+	141D1F9112FF4E2C00F59DEA /* proxy.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3280}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 213}";
+		};
+	};
+	141D1F9212FF4E2C00F59DEA /* singleton.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2224}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 211}";
+		};
+	};
+	141D1F9312FF4E2C00F59DEA /* state.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2512}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 174}";
+		};
+	};
+	141D1F9412FF4E2C00F59DEA /* strategy.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 3200}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 252}";
+		};
+	};
+	141D1F9512FF4E2C00F59DEA /* TCPClosed.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	141D1F9612FF4E2C00F59DEA /* tmethod.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1568}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 288}";
 		};
 	};
 	141D1FBD12FF4F9C00F59DEA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 141D1F9012FF4E2C00F59DEA /* prototype.C */;
+		fRef = 141D1F9012FF4E2C00F59DEA /* prototype.cpp */;
 		name = "prototype.C: 1";
 		rLen = 0;
 		rLoc = 0;
@@ -112,7 +322,7 @@
 	};
 	141D1FBE12FF4F9C00F59DEA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 141D1F9012FF4E2C00F59DEA /* prototype.C */;
+		fRef = 141D1F9012FF4E2C00F59DEA /* prototype.cpp */;
 		name = "prototype.C: 1";
 		rLen = 0;
 		rLoc = 0;

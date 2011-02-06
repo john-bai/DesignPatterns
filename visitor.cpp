@@ -1,6 +1,6 @@
 /*
 */
-// Copilation Instructions
+// Compilation Instructions
 // #define Implementation | Consequences | SampleCode
 #include "Foundation.h"
 #include <iostream.h>
