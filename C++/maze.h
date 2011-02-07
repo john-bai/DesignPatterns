@@ -1,7 +1,6 @@
+#include <iostream>
 #include "Geom.h"
-#include <iostream.h>
-
-#include "C++/MazeParts.h"
+#include "MazeParts.h"
 
 Door::Door (const Door& other) {
     _room1 = other._room1;
@@ -29,7 +28,7 @@ Wall* BombedWall::Clone () const {
 
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 // Factories
-#include "C++/MazeFactories.h"
+#include "MazeFactories.h"
 Maze* MazeFactory::MakeMaze() const
         { return new Maze; }
 Wall* MazeFactory::MakeWall() const
@@ -265,7 +264,7 @@ void CountingMazeBuilder::GetCounts (int& rooms, int& doors) const {
 
 
 //%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-#include "C++/MazeGame.h"
+#include "MazeGame.h"
 
 class BombedMazeGame : public MazeGame {
 public:

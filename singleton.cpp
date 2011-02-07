@@ -1,3 +1,4 @@
+#include "C++/defs.h"
 /*
 */
 #ifdef Implementation1

@@ -10,9 +10,9 @@ const long DEFAULT_LIST_CAPACITY = 200;
 #define defs_h
 /*
 */
-typedef int bool;
-const int true = 1;
-const int false = 0;
+//typedef int bool;
+//const int true = 1;
+//const int false = 0;
 /*
 */
 #endif
