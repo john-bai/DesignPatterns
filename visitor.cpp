@@ -2,8 +2,8 @@
 */
 // Compilation Instructions
 // #define Implementation | Consequences | SampleCode
-#include "Foundation.h"
-#include <iostream.h>
+#include "C++/Foundation.h"
+#include <iostream>
 /*
 */
 #ifdef Consequences

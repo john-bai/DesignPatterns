@@ -44,7 +44,7 @@ protected:
 };
 /*
 */
-#include "TCPClosed.C"
+#include "TCPClosed.cpp"
 /*
 */
 TCPConnection::TCPConnection () {

@@ -1,6 +1,6 @@
 /*
 */
-#include "Geom.h"
+#include "C++/Geom.h"
 class Event;
 
 #ifdef Implementation
@@ -71,7 +71,7 @@ image->Draw(Point(50, 100));
 /*
 */
 #ifdef SampleCode
-#include "iostream.h"
+#include <iostream>
 #include "strings.h"
 /*
 */

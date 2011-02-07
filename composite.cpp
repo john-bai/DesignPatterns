@@ -48,8 +48,8 @@ if (test = aComponent->GetComposite()) {
 }
 /*
 */
-#include "List.h"
-#include "iostream.h"
+#include "C++/List.h"
+#include <iostream>
 typedef int Watt;
 typedef int Currency;
 typedef int Power;

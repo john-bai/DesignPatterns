@@ -3,7 +3,7 @@
 
 #include "C++/MazeParts.h"
 #include "C++/MazeGame.h"
-#include <iostream.h>
+#include <iostream>
 /*
 */
 class MazeBuilder {

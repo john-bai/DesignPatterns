@@ -69,24 +69,24 @@ public:
 
 class TextView : public VisualComponent {
 };
-main () {
-/*
-*/
-Window* window = new Window;
-TextView* textView = new TextView;
-/*
-*/
-window->SetContents(textView);
-/*
-*/
-window->SetContents(
-    new BorderDecorator(
-        new ScrollDecorator(textView), 1
-    )
-);
-/*
-*/
-}
+//main () {
+///*
+//*/
+//Window* window = new Window;
+//TextView* textView = new TextView;
+///*
+//*/
+//window->SetContents(textView);
+///*
+//*/
+//window->SetContents(
+//    new BorderDecorator(
+//        new ScrollDecorator(textView), 1
+//    )
+//);
+///*
+//*/
+//}
 /*
 */
 class Stream {

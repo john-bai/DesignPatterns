@@ -398,41 +398,41 @@ Door* MazeGame::MakeDoor (Room* r1, Room* r2) const {
 // The offsets below are bad, but it makes code appear ok in text
 // Simply cut and paste
 
-main() {
-MazeGame game;
-Maze* maze;
-
-maze = game.CreateMaze();
-
-// Prototype
-
-MazePrototypeFactory prototypeFactory1( new Maze,
-                                       new Wall, 
-                                       new Room, 
-                                       new Door );
-
-maze = game.CreateMaze(prototypeFactory1);
-
-MazePrototypeFactory prototypeFactory2(new Maze,
-                                      new BombedWall,
-                                      new RoomWithABomb,
-                                      new Door);
-
-maze = game.CreateMaze(prototypeFactory2);
-
-// Builder
-StandardMazeBuilder  sbuilder;
-game.CreateMaze(sbuilder);
-
-maze = sbuilder.GetMaze();
-
-int rooms, doors;
-CountingMazeBuilder cbuilder;
-game.CreateMaze(cbuilder);
-cbuilder.GetCounts(rooms, doors);
-cout << "The maze has "
-     << rooms << " rooms and "
-     << doors << " doors rooms\n";
-}
+//main() {
+//MazeGame game;
+//Maze* maze;
+//
+//maze = game.CreateMaze();
+//
+//// Prototype
+//
+//MazePrototypeFactory prototypeFactory1( new Maze,
+//                                       new Wall, 
+//                                       new Room, 
+//                                       new Door );
+//
+//maze = game.CreateMaze(prototypeFactory1);
+//
+//MazePrototypeFactory prototypeFactory2(new Maze,
+//                                      new BombedWall,
+//                                      new RoomWithABomb,
+//                                      new Door);
+//
+//maze = game.CreateMaze(prototypeFactory2);
+//
+//// Builder
+//StandardMazeBuilder  sbuilder;
+//game.CreateMaze(sbuilder);
+//
+//maze = sbuilder.GetMaze();
+//
+//int rooms, doors;
+//CountingMazeBuilder cbuilder;
+//game.CreateMaze(cbuilder);
+//cbuilder.GetCounts(rooms, doors);
+//cout << "The maze has "
+//     << rooms << " rooms and "
+//     << doors << " doors rooms\n";
+//}
 
 

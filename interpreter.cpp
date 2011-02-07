@@ -1,6 +1,6 @@
 /*
 */
-#include "defs.h"
+#include "C++/defs.h"
 #include <strings.h>
 class VariableExp;
 class Context;
@@ -143,40 +143,39 @@ public:
 private:
     BooleanExp* _operand;
 };
-main () {
-
-
-/*
-*/
-BooleanExp* expression;
-Context context;
-
-VariableExp* x = new VariableExp("X");
-VariableExp* y = new VariableExp("Y");
-
-expression = new OrExp(
-    new AndExp(new Constant(true), x),
-    new AndExp(y, new NotExp(x))
-);
-/*
-*/
-context.Assign(x, false);
-context.Assign(y, true);
-
-bool result = expression->Evaluate(context);
-/*
-*/
-BooleanExp* replacement;
-VariableExp* z = new VariableExp("Z");
-
-replacement = new NotExp(z);
-expression->Replace("Y", *replacement);
-
-context.Assign(z, true);
-
-result = expression ->Evaluate(context);
-/*
-*/
-}
+//main () {
+//
+//
+///*
+//*/
+//BooleanExp* expression;
+//Context context;
+//
+//VariableExp* x = new VariableExp("X");
+//VariableExp* y = new VariableExp("Y");
+//
+//expression = new OrExp(
+//    new AndExp(new Constant(true), x),
+//    new AndExp(y, new NotExp(x)));
+///*
+//*/
+//context.Assign(x, false);
+//context.Assign(y, true);
+//
+//bool result = expression->Evaluate(context);
+///*
+//*/
+//BooleanExp* replacement;
+//VariableExp* z = new VariableExp("Z");
+//
+//replacement = new NotExp(z);
+//expression->Replace("Y", *replacement);
+//
+//context.Assign(z, true);
+//
+//result = expression ->Evaluate(context);
+///*
+//*/
+//}
 /*
 */
