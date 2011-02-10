@@ -35,14 +35,14 @@ class Window;
 
 class View {
   public:
-    DrawOn(Window*);
+    void drawOn(Window*);
 };
 
 class WindowImp;
 struct Display;
 typedef unsigned int Drawable;
 typedef struct XXX { int y; }  *GC;
-extern XDrawRectangle(
+extern void xDrawRectangle(
     Display*,
     Drawable,
     GC,
@@ -135,7 +135,7 @@ public:
 };
 
 void ApplicationWindow::DrawContents () {
-    GetView()->DrawOn(this);
+    GetView()->drawOn(this);
 }
 /*
 */
@@ -195,7 +195,7 @@ void XWindowImp::DeviceRect (
     int y = round(min(y0, y1));
     int w = round(abs(x0 - x1));
     int h = round(abs(y0 - y1));
-    XDrawRectangle(_dpy, _winid, _gc, x, y, w, h);
+    xDrawRectangle(_dpy, _winid, _gc, x, y, w, h);
 }
 /*
 */

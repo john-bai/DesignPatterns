@@ -1,8 +1,5 @@
-/*
-*/
+using namespace std;
 
-/*
-*/
 class TCPOctetStream;
 class TCPState;
 
@@ -42,9 +39,17 @@ public:
 protected:
     void ChangeState(TCPConnection*, TCPState*);
 };
+
+class TCPClosed : public TCPState {
+public:
+    static TCPState* Instance();
+    
+    virtual void ActiveOpen(TCPConnection*);
+    virtual void PassiveOpen(TCPConnection*);
+    // ...
+};
 /*
 */
-#include "TCPClosed.cpp"
 /*
 */
 TCPConnection::TCPConnection () {

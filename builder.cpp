@@ -4,6 +4,7 @@
 #include "C++/MazeParts.h"
 #include "C++/MazeGame.h"
 #include <iostream>
+using namespace std;
 /*
 */
 class MazeBuilder {

@@ -1,6 +1,7 @@
-/*
-*/
+#include <exception>
 #include "C++/defs.h"
+using namespace std;
+
 const int DEFAULT_LIST_CAPACITY = 100;
 template <class Item> class Iterator;
 /*
@@ -73,14 +74,13 @@ bool ListIterator<Item>::IsDone () const {
 }
 /*
 */
-//class IteratorOutOfBounds;
-#define throw //
+class IteratorOutOfBounds : public exception {};
 /*
 */
 template <class Item>
 Item ListIterator<Item>::CurrentItem () const {
     if (IsDone()) {
-        throw IteratorOutOfBounds;
+        throw new IteratorOutOfBounds;
     }
     return _list->Get(_current);
 }
@@ -319,7 +319,7 @@ private:
 /*
 */
 template <class Item>
-void FilteringListTraverser<Item>::Traverse () {
+bool FilteringListTraverser<Item>::Traverse () {
     bool result = false;
 /*
 */

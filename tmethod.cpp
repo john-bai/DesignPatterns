@@ -1,6 +1,7 @@
 /*
 */
 #include "C++/Foundation.h"
+using namespace std;
 /*
 */
 class Document;
@@ -9,7 +10,9 @@ public:
   void OpenDocument(const char*);
   virtual bool CanOpenDocument(const char*);
   virtual Document* DoCreateDocument();
-  virtual void AboutToOpenDocument();
+  virtual void AboutToOpenDocument(Document* doc);
+private:
+  List<Document>* _docs;
 };
 class Document {
 public:
@@ -28,7 +31,7 @@ void Application::OpenDocument (const char* name) {
     Document* doc = DoCreateDocument();
 
     if (doc) {
-        _docs->AddDocument(doc);
+        _docs->Append(*doc);
         AboutToOpenDocument(doc);
         doc->Open();
         doc->DoRead();
