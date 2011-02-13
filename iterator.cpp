@@ -1,5 +1,5 @@
 #include <exception>
-#include "C++/defs.h"
+#include "defs.h"
 using namespace std;
 
 const int DEFAULT_LIST_CAPACITY = 100;

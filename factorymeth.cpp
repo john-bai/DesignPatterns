@@ -101,7 +101,7 @@ StandardCreator<MyProduct> myCreator;
 #endif
 /*
 */
-#include "C++/MazeParts.h"
+#include "MazeParts.h"
 /*
 */
 class MazeGame {

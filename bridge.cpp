@@ -29,7 +29,7 @@ Handle& Handle::operator= (const Handle& other)  {
 }
 /*
 */
-#include "C++/Geom.h"
+#include "Geom.h"
 #include "math.h"
 class Window;
 

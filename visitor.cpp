@@ -2,7 +2,7 @@
 */
 // Compilation Instructions
 // #define Implementation | Consequences | SampleCode
-#include "C++/Foundation.h"
+#include "Foundation.h"
 #include <iostream>
 /*
 */

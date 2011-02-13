@@ -88,7 +88,7 @@ void ExtendedHandler::HandleRequest (Request* theRequest) {
 /*
 */
 #ifdef SampleCode
-#include"C++/defs.h"
+#include"defs.h"
 class Application;
 class Dialog;
 class HelpHandler;

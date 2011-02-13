@@ -1,8 +1,8 @@
 /*
 */
 
-#include "C++/MazeParts.h"
-#include "C++/MazeGame.h"
+#include "MazeParts.h"
+#include "MazeGame.h"
 #include <iostream>
 using namespace std;
 /*

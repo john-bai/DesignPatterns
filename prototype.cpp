@@ -1,9 +1,9 @@
 /*
 */
 #ifdef SampleCode1
-#include "C++/MazeGame.h"
-#include "C++/MazeFactory.h"
-#include "C++/MazeParts.h"
+#include "MazeGame.h"
+#include "MazeFactory.h"
+#include "MazeParts.h"
 /*
 */
 class MazePrototypeFactory : public MazeFactory {
@@ -74,7 +74,7 @@ MazePrototypeFactory bombedMazeFactory(
 #define Door_H
 #define BombedWall_H
 #define DoorNeedingSpell_H
-#include "C++/MazeParts.h"
+#include "MazeParts.h"
 /*
 */
 class Door : public MapSite {

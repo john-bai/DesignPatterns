@@ -1,6 +1,6 @@
 /*
 */
-#include "C++/Foundation.h"
+#include "Foundation.h"
 class istream;
 class ostream;
 class Token;

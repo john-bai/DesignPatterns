@@ -1,6 +1,6 @@
 /*
 */
-#include "C++/Geom.h"
+#include "Geom.h"
 // Compilation Instructions
 // With ClassAdapter defined and not defined
 #define ClassAdapter 0

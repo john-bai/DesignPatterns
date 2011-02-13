@@ -35,7 +35,7 @@ private:
 };
 /*
 */
-#include "C++/Geom.h"
+#include "Geom.h"
 class ConstraintSolverMemento;
 class ConstraintSolver;
 

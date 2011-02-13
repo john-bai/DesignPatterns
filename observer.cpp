@@ -39,7 +39,7 @@ void Text::Cut (TextRange r) {
 }
 /*
 */
-#include "C++/List.h"
+#include "List.h"
 /*
 */
 class Subject;

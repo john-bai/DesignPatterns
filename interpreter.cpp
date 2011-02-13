@@ -1,6 +1,6 @@
 /*
 */
-#include "C++/defs.h"
+#include "defs.h"
 #include <strings.h>
 class VariableExp;
 class Context;

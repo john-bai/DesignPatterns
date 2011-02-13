@@ -76,7 +76,7 @@ Context<MyStrategy> aContext;
 /*
 */
 #ifdef SampleCode
-#include "C++/Geom.h"
+#include "Geom.h"
 /*
 */
 class Compositor;

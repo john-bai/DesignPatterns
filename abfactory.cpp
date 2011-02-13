@@ -1,7 +1,7 @@
 /*
 */
-#include "C++/MazeParts.h"
-#include "C++/MazeGame.h"
+#include "MazeParts.h"
+#include "MazeGame.h"
 #define MazeFactory_H
 /*
 */
@@ -65,7 +65,7 @@ protected:
 /*
 */
 #define EnchantedMazeFactory_H
-#include "C++/MazeFactories.h"
+#include "MazeFactories.h"
 /*
 */
 Wall* BombedMazeFactory::MakeWall () const {

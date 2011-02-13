@@ -1,6 +1,6 @@
 /*
 */
-#include "C++/defs.h"
+#include "defs.h"
 class Window;
 class GlyphContext;
 class Font {

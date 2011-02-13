@@ -1,4 +1,4 @@
-#include "C++/defs.h"
+#include "defs.h"
 /*
 */
 #ifdef Implementation1
@@ -28,7 +28,7 @@ Singleton* Singleton::Instance () {
 /*
 */
 #ifdef Implementation2
-#include "C++/List.h"
+#include "List.h"
 #include "stdlib.h"
 class NameSingletonPair;
 
@@ -103,7 +103,7 @@ MazeFactory* MazeFactory::Instance () {
 */
 #else
 //MazeFactory* MazeFactory::_instance = 0;
-#include "C++/MazeFactories.h"
+#include "MazeFactories.h"
 #include "stdlib.h"
 #include "strings.h"
 /*
