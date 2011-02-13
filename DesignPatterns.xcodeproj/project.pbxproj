@@ -11,7 +11,6 @@
 		141D1F9912FF4E2C00F59DEA /* adapter.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7712FF4E2C00F59DEA /* adapter.cpp */; };
 		141D1F9A12FF4E2C00F59DEA /* bridge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7812FF4E2C00F59DEA /* bridge.cpp */; };
 		141D1F9B12FF4E2C00F59DEA /* builder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7912FF4E2C00F59DEA /* builder.cpp */; };
-		141D1F9C12FF4E2C00F59DEA /* maze.h in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F7F12FF4E2C00F59DEA /* maze.h */; };
 		141D1F9D12FF4E2C00F59DEA /* chain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8412FF4E2C00F59DEA /* chain.cpp */; };
 		141D1F9E12FF4E2C00F59DEA /* command.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8512FF4E2C00F59DEA /* command.cpp */; };
 		141D1F9F12FF4E2C00F59DEA /* composite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 141D1F8612FF4E2C00F59DEA /* composite.cpp */; };
@@ -229,7 +228,6 @@
 				141D1F9912FF4E2C00F59DEA /* adapter.cpp in Sources */,
 				141D1F9A12FF4E2C00F59DEA /* bridge.cpp in Sources */,
 				141D1F9B12FF4E2C00F59DEA /* builder.cpp in Sources */,
-				141D1F9C12FF4E2C00F59DEA /* maze.h in Sources */,
 				141D1F9D12FF4E2C00F59DEA /* chain.cpp in Sources */,
 				141D1F9E12FF4E2C00F59DEA /* command.cpp in Sources */,
 				141D1F9F12FF4E2C00F59DEA /* composite.cpp in Sources */,

@@ -1,34 +1,9 @@
 TDesignPatterns
 v7
 r0
-t319054075.034081
+t319323344.612174
 cCheck dependencies
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o /Users/jtherrell/src/DesignPatterns/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
 cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o /Users/jtherrell/src/DesignPatterns/abfactory.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o /Users/jtherrell/src/DesignPatterns/adapter.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o /Users/jtherrell/src/DesignPatterns/bridge.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o /Users/jtherrell/src/DesignPatterns/builder.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o /Users/jtherrell/src/DesignPatterns/chain.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o /Users/jtherrell/src/DesignPatterns/command.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o /Users/jtherrell/src/DesignPatterns/composite.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o /Users/jtherrell/src/DesignPatterns/decorator.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o /Users/jtherrell/src/DesignPatterns/facade.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o /Users/jtherrell/src/DesignPatterns/factorymeth.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o /Users/jtherrell/src/DesignPatterns/flyweight.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o /Users/jtherrell/src/DesignPatterns/interpreter.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o /Users/jtherrell/src/DesignPatterns/iterator.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o /Users/jtherrell/src/DesignPatterns/mediator.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o /Users/jtherrell/src/DesignPatterns/memento.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o /Users/jtherrell/src/DesignPatterns/observer.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o /Users/jtherrell/src/DesignPatterns/prototype.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o /Users/jtherrell/src/DesignPatterns/proxy.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o /Users/jtherrell/src/DesignPatterns/singleton.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o /Users/jtherrell/src/DesignPatterns/state.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o /Users/jtherrell/src/DesignPatterns/strategy.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o /Users/jtherrell/src/DesignPatterns/TCPClosed.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o /Users/jtherrell/src/DesignPatterns/tmethod.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o /Users/jtherrell/src/DesignPatterns/visitor.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd /Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
 c000000004CAA740B00000000000000EE
@@ -51,9 +26,9 @@ t1270689001
 s3492
 
 N/Users/jtherrell/src/DesignPatterns/C++/Foundation.H
-c000000002EBD0D5D0000000000000B30
-t784141661
-s2864
+c000000004D5434030000000000000B36
+t1297363971
+s2870
 
 N/Users/jtherrell/src/DesignPatterns/C++/Foundation.h
 c000000004D4F20880000000000000B36
@@ -131,9 +106,9 @@ s2258
 i"defs.h"
 
 N/Users/jtherrell/src/DesignPatterns/C++/defs.H
-c000000004D4F186B000000000000009C
-t1297029227
-s156
+c000000004D54313100000000000000B8
+t1297363249
+s184
 
 N/Users/jtherrell/src/DesignPatterns/C++/defs.h
 c000000004D4F1FA800000000000000B8
@@ -169,8 +144,8 @@ i"C++/MazeGame.h"
 i"C++/MazeFactories.h"
 
 N/Users/jtherrell/src/DesignPatterns/abfactory.cpp
-c000000004D4F183800000000000006D5
-t1297029176
+c000000004D54340300000000000006D5
+t1297363971
 s1749
 i"C++/MazeParts.h"
 i"C++/MazeGame.h"
@@ -183,8 +158,8 @@ s2354
 i"Geom.h"
 
 N/Users/jtherrell/src/DesignPatterns/adapter.cpp
-c000000004D4F3B0E0000000000000936
-t1297038094
+c000000004D5431310000000000000936
+t1297363249
 s2358
 i"C++/Geom.h"
 
@@ -203,72 +178,72 @@ i"C++/Geom.h"
 i"math.h"
 
 N/Users/jtherrell/src/DesignPatterns/build/Debug/DesignPatterns
-t2
-s0
+t1297363971
+s10576
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/DesignPatterns.LinkFileList
-c000000004D5429790000000000000BF9
-t1297361273
+c000000004D5434030000000000000BF9
+t1297363971
 s3065
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o
-t1297361274
+t1297363971
 s1420
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o
-t1297361273
+t1297630544
 s12096
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o
-t1297361273
+t1297363971
 s8788
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/bridge.o
-t1297361273
+t1297363971
 s16296
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/builder.o
-t1297361273
+t1297363971
 s83244
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/chain.o
-t1297361273
+t1297363971
 s1416
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/command.o
-t1297361273
+t1297363971
 s22316
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/composite.o
-t1297361274
+t1297363971
 s80316
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/decorator.o
-t1297361274
+t1297363971
 s7248
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/facade.o
-t1297361274
+t1297363971
 s11792
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/factorymeth.o
-t1297361274
+t1297363971
 s5684
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/flyweight.o
-t1297361274
+t1297363971
 s9068
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/interpreter.o
-t1297361274
+t1297363971
 s10824
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/iterator.o
-t1297361274
+t1297363971
 s22996
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/main.o
-t1297361273
+t1297363971
 s66976
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/maze.o
@@ -276,23 +251,23 @@ t2
 s0
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/mediator.o
-t1297361274
+t1297363971
 s10396
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/memento.o
-t1297361274
+t1297363971
 s9484
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/observer.o
-t1297361274
+t1297363971
 s22468
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/prototype.o
-t1297361274
+t1297363971
 s1420
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/proxy.o
-t1297361274
+t1297363971
 s4932
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.ii
@@ -300,23 +275,23 @@ t1297030730
 s30183
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/singleton.o
-t1297361274
+t1297363971
 s5928
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/state.o
-t1297361274
+t1297363971
 s15356
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/strategy.o
-t1297361274
+t1297363971
 s1416
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/tmethod.o
-t1297361274
+t1297363971
 s12684
 
 N/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/visitor.o
-t1297361275
+t1297363971
 s49084
 
 N/Users/jtherrell/src/DesignPatterns/builder.C
@@ -328,8 +303,8 @@ i"C++/MazeGame.h"
 i<iostream.h>
 
 N/Users/jtherrell/src/DesignPatterns/builder.cpp
-c000000004D4F3F510000000000000B69
-t1297039185
+c000000004D5434030000000000000B69
+t1297363971
 s2921
 i"C++/MazeParts.h"
 i"C++/MazeGame.h"
@@ -354,8 +329,8 @@ s2286
 i"List.h"
 
 N/Users/jtherrell/src/DesignPatterns/command.cpp
-c000000004D4F3BBD00000000000008F2
-t1297038269
+c000000004D54340300000000000008F2
+t1297363971
 s2290
 i"C++/List.h"
 
@@ -367,8 +342,8 @@ i"List.h"
 i"iostream.h"
 
 N/Users/jtherrell/src/DesignPatterns/composite.cpp
-c000000004D4F3F690000000000000B5D
-t1297039209
+c000000004D5434030000000000000B5D
+t1297363971
 s2909
 i"C++/List.h"
 i<iostream>
@@ -379,8 +354,8 @@ t784142039
 s1963
 
 N/Users/jtherrell/src/DesignPatterns/decorator.cpp
-c000000004D4F3A6B00000000000007CF
-t1297037931
+c000000004D54340300000000000007CF
+t1297363971
 s1999
 
 N/Users/jtherrell/src/DesignPatterns/facade.C
@@ -414,8 +389,8 @@ s2021
 i"defs.h"
 
 N/Users/jtherrell/src/DesignPatterns/flyweight.cpp
-c000000004D4F397900000000000007E9
-t1297037689
+c000000004D54340300000000000007E9
+t1297363971
 s2025
 i"C++/defs.h"
 
@@ -440,15 +415,15 @@ s5850
 i"defs.h"
 
 N/Users/jtherrell/src/DesignPatterns/iterator.cpp
-c000000004D54228D000000000000170A
-t1297359501
+c000000004D543403000000000000170A
+t1297363971
 s5898
 i<exception>
 i"C++/defs.h"
 
 N/Users/jtherrell/src/DesignPatterns/main.cpp
-c000000004D4F1641000000000000008F
-t1297028673
+c000000004D543131000000000000008F
+t1297363249
 s143
 i<iostream>
 
@@ -471,8 +446,8 @@ s2820
 i"Geom.h"
 
 N/Users/jtherrell/src/DesignPatterns/memento.cpp
-c000000004D4F3C550000000000000B08
-t1297038421
+c000000004D5434030000000000000B08
+t1297363971
 s2824
 i"C++/Geom.h"
 
@@ -515,8 +490,8 @@ i"iostream.h"
 i"strings.h"
 
 N/Users/jtherrell/src/DesignPatterns/proxy.cpp
-c000000004D4F3C780000000000000C80
-t1297038456
+c000000004D5434030000000000000C80
+t1297363971
 s3200
 i"C++/Geom.h"
 i<iostream>
@@ -607,7 +582,7 @@ lSLF07#2@57"Compile /Users/jtherrell/src/DesignPatterns/singleton.cpp318723530#3
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies319054073#319054073#0(114"[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/maze.h' of type sourcecode.c.h for architecture x86_641(22@107"warning: no rule to process file '$(PROJECT_DIR)/C++/maze.h' of type sourcecode.c.h for architecture x86_64319054073#18446744073709551615#0#0(1@0"0(0#1#0"9321364640#0"0#
+lSLF07#2@18"Check dependencies319323344#319323344#0(1057"[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/defs.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/Foundation.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/Geom.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/List.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/maze.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/MazeFactories.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/MazeFactory.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/MazeGame.h' of type sourcecode.c.h for architecture x86_64[WARN]warning: no rule to process file '$(PROJECT_DIR)/C++/MazeParts.h' of type sourcecode.c.h for architecture x86_649(22@107"warning: no rule to process file '$(PROJECT_DIR)/C++/defs.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@113"warning: no rule to process file '$(PROJECT_DIR)/C++/Foundation.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@107"warning: no rule to process file '$(PROJECT_DIR)/C++/Geom.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@107"warning: no rule to process file '$(PROJECT_DIR)/C++/List.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@107"warning: no rule to process file '$(PROJECT_DIR)/C++/maze.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@116"warning: no rule to process file '$(PROJECT_DIR)/C++/MazeFactories.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@114"warning: no rule to process file '$(PROJECT_DIR)/C++/MazeFactory.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@111"warning: no rule to process file '$(PROJECT_DIR)/C++/MazeGame.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(22@112"warning: no rule to process file '$(PROJECT_DIR)/C++/MazeParts.h' of type sourcecode.c.h for architecture x86_64319323344#18446744073709551615#0#0(1@0"0(0#1#0"29836824280170608#0"0#
 
 CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/TCPClosed.o /Users/jtherrell/src/DesignPatterns/TCPClosed.C normal x86_64 c++ com.apple.compilers.gcc.4_2
 s318722029.653574
@@ -654,8 +629,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@55"Compile /Users/jtherrell/src/DesignPatterns/abfactory.C318722028#318722028#0(0"0(0#0#47"/Users/jtherrell/src/DesignPatterns/abfactory.C8611952160#1392"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/abfactory.C -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o0#
 
 CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o /Users/jtherrell/src/DesignPatterns/abfactory.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s319054073.131081
-e319054073.263633
+s319323344.559837
+e319323344.612124
 r1
 xCompileC
 xbuild/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o
@@ -664,7 +639,7 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/jtherrell/src/DesignPatterns/abfactory.cpp319054073#319054073#0(0"0(0#0#49"/Users/jtherrell/src/DesignPatterns/abfactory.cpp9319538656#1394"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/abfactory.cpp -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o0#
+lSLF07#2@57"Compile /Users/jtherrell/src/DesignPatterns/abfactory.cpp319323344#319323344#0(0"0(0#0#49"/Users/jtherrell/src/DesignPatterns/abfactory.cpp8606229120#1394"    cd /Users/jtherrell/src/DesignPatterns    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-generated-files.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-own-target-headers.hmap -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-all-target-headers.hmap -iquote /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DesignPatterns-project-headers.hmap -F/Users/jtherrell/src/DesignPatterns/build/Debug -I/Users/jtherrell/src/DesignPatterns/build/Debug/include -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources/x86_64 -I/Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/DerivedSources -c /Users/jtherrell/src/DesignPatterns/abfactory.cpp -o /Users/jtherrell/src/DesignPatterns/build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/abfactory.o0#
 
 CCompileC build/DesignPatterns.build/Debug/DesignPatterns.build/Objects-normal/x86_64/adapter.o /Users/jtherrell/src/DesignPatterns/adapter.C normal x86_64 c++ com.apple.compilers.gcc.4_2
 s318722028.814595
