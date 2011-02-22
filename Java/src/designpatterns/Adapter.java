@@ -5,9 +5,9 @@ import java.awt.Dimension;
 
 class TextShapeAdapter
 {
-	private TextView text;
+	private TextBox text;
 
-	public TextShapeAdapter(TextView text) {
+	public TextShapeAdapter(TextBox text) {
 		this.text = text;
 	}
 
@@ -28,12 +28,12 @@ class Shape
 	}
 }
 
-class TextView
+class TextBox
 {
 	private Point origin;
 	private Dimension dimension;
 	
-	public TextView() {
+	public TextBox() {
 		origin = new Point(0,0);
 		dimension = new Dimension(10,10);
 	}

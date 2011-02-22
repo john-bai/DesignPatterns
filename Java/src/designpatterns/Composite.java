@@ -39,22 +39,22 @@ class Picture extends Graphic {
 }
 
 class Line extends Graphic {
-	public void draw(){}
-	public void add(Graphic g){} // do nothing
-	public void remove(Graphic g){} // do nothing
-	public Graphic getChild(int index){return null;}
+	public void draw() {}
+	public void add(Graphic g) {} // do nothing
+	public void remove(Graphic g) {} // do nothing
+	public Graphic getChild(int index) {return null;}
 }
 
 class Rectangle extends Graphic {
-	public void draw(){}
-	public void add(Graphic g){} // do nothing
-	public void remove(Graphic g){} // do nothing
-	public Graphic getChild(int index){return null;}
+	public void draw() {}
+	public void add(Graphic g) {} // do nothing
+	public void remove(Graphic g) {} // do nothing
+	public Graphic getChild(int index) {return null;}
 }
 
 class Text extends Graphic {
-	public void draw(){}
-	public void add(Graphic g){} // do nothing
-	public void remove(Graphic g){} // do nothing
-	public Graphic getChild(int index){return null;}
+	public void draw() {}
+	public void add(Graphic g) {} // do nothing
+	public void remove(Graphic g) {} // do nothing
+	public Graphic getChild(int index) {return null;}
 }

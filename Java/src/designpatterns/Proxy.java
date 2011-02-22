@@ -9,14 +9,14 @@ package designpatterns;
  *
  * @author jtherrell
  */
-abstract class Graphic {
+abstract class Glyph {
 	abstract public void draw();
 	abstract public void getExtent();
 	abstract public void store();
 	abstract public void load();
 }
 
-class ImageProxy extends Graphic {
+class ImageProxy extends Glyph {
 	private Image image;
 
 	public void draw(){
@@ -28,7 +28,7 @@ class ImageProxy extends Graphic {
 	public void load(){}
 }
 
-class Image extends Graphic {
+class Image extends Glyph {
 	private Rectangle boundingBox;
 
 	public void draw(){}

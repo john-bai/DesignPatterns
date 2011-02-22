@@ -1,0 +1,5 @@
+designpatterns.Decorator
+designpatterns.VisualComponent
+designpatterns.BorderDecorator
+designpatterns.TextView
+designpatterns.ScrollDecorator

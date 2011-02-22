@@ -18,7 +18,6 @@ public class SingletonTest {
 	 * Test of getInstance method, of class Singleton.
 	 */ @Test
 	public void testGetInstance() {
-		System.out.println("getInstance");
 		Singleton expResult = Singleton.getInstance();
 		Singleton result = Singleton.getInstance();
 		assertEquals(expResult, result);
@@ -28,7 +27,6 @@ public class SingletonTest {
 	 * Test of addToFoo method, of class Singleton.
 	 */ @Test
 	public void testAddToFoo() {
-		System.out.println("addToFoo");
 		int num = 10;
 		Singleton instance = Singleton.getInstance();
 		int expResult = instance.getFoo() + num;

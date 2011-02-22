@@ -1,0 +1,3 @@
+designpatterns.Image
+designpatterns.Glyph
+designpatterns.ImageProxy

@@ -9,6 +9,6 @@ package designpatterns;
  *
  * @author jtherrell
  */
-public class Flyweight {
+class Flyweight {
 
 }

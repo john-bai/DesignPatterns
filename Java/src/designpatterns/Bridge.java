@@ -12,8 +12,9 @@ import java.awt.Rectangle;
  * @author jtherrell
  */
 abstract class Window {
-	private WindowImp implementation;
-	private Rectangle boundingBox;
+	protected WindowImp implementation;
+	protected Log log;
+	protected Rectangle boundingBox;
 
 	public void drawText() {
 		implementation.drawText();
@@ -32,6 +33,12 @@ abstract class Window {
 }
 
 class IconWindow extends Window {
+	public IconWindow(Log l) {
+		log = l;
+		implementation = WindowImp.getWindowImp(0);
+		implementation.attachLog(log);
+		boundingBox = new Rectangle(10,10);
+	}
 	public void draw() {
 		drawRect();
 		drawText();
@@ -39,22 +46,49 @@ class IconWindow extends Window {
 }
 
 class TransientWindow extends Window {
+	public TransientWindow(Log l) {
+		log = l;
+		implementation = WindowImp.getWindowImp(1);
+		implementation.attachLog(log);
+		boundingBox = new Rectangle(10,10);
+	}
 	public void draw() {
 		drawRect();
 	}
 }
 
 abstract class WindowImp {
+	protected Log log;
 	abstract public void drawText();
 	abstract public void drawLine(Point p1, Point p2);
+	public void attachLog(Log log) {
+		this.log = log;
+	}
+	static WindowImp getWindowImp(int context) {
+		return context < 1 ? new XWindowImp() : new YWindowImp();
+	}
 }
 
 class XWindowImp extends WindowImp {
-	public void drawText() {}
-	public void drawLine(Point p1, Point p2) {}
+	public void drawText() { log.append("world"); }
+	public void drawLine(Point p1, Point p2) { log.append("hello"); }
 }
 
 class YWindowImp extends WindowImp {
-	public void drawText() {}
-	public void drawLine(Point p1, Point p2) {}
+	public void drawText() { log.append("neato"); }
+	public void drawLine(Point p1, Point p2) { log.append("wow"); }
+}
+
+class Log {
+	private StringBuffer log;
+	public Log() { 
+		log = new StringBuffer();
+	}
+	public void append(String s) {
+		log.append(s);
+	}
+	@Override
+	public String toString() {
+		return log.toString();
+	}
 }

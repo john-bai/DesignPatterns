@@ -1,0 +1,5 @@
+designpatterns.SubsystemClassD
+designpatterns.SubsystemClassC
+designpatterns.SubsystemClassB
+designpatterns.SubsystemClassA
+designpatterns.Facade

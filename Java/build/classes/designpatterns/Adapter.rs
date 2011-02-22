@@ -1,0 +1,3 @@
+designpatterns.Shape
+designpatterns.TextBox
+designpatterns.TextShapeAdapter

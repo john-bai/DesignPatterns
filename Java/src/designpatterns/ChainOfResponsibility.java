@@ -9,6 +9,6 @@ package designpatterns;
  *
  * @author jtherrell
  */
-public class ChainOfResponsibility {
+class ChainOfResponsibility {
 
 }

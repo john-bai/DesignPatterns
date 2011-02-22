@@ -1,0 +1,7 @@
+designpatterns.XWindowImp
+designpatterns.IconWindow
+designpatterns.Window
+designpatterns.TransientWindow
+designpatterns.Log
+designpatterns.YWindowImp
+designpatterns.WindowImp
