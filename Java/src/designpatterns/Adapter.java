@@ -3,12 +3,16 @@ import java.awt.Rectangle;
 import java.awt.Point;
 import java.awt.Dimension;
 
-class TextShapeAdapter
+interface GUIComponent {
+	public Rectangle boundingBox();
+}
+
+class TextShapeAdapter implements GUIComponent
 {
 	private TextBox text;
 
-	public TextShapeAdapter(TextBox text) {
-		this.text = text;
+	public TextShapeAdapter() {
+		text = new TextBox();
 	}
 
 	public Rectangle boundingBox() {
@@ -16,7 +20,7 @@ class TextShapeAdapter
 	}
 }
 
-class Shape
+class Shape implements GUIComponent
 {
 	private Rectangle boundingBox;
 	
