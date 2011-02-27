@@ -71,6 +71,7 @@ public class CompositeTest {
 	 * Test
 	 */ @Test
 	public void testPictureDraw() {
+		 Log log = new Log();
 		 Graphic compositeObj = new Picture();
 		 Graphic textObj = new Text();
 		 compositeObj.add(textObj);
