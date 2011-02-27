@@ -73,10 +73,19 @@ public class CompositeTest {
 	public void testPictureDraw() {
 		 Log log = new Log();
 		 Graphic compositeObj = new Picture();
-		 Graphic textObj = new Text();
-		 compositeObj.add(textObj);
-		 Graphic returnedTextObj = compositeObj.getChild(0);
-		 assertEquals(textObj, returnedTextObj);
+		 // We'll add a Picture in the Picture along with a standalone Graphic
+		 // such as Line.
+		 Graphic threeRectanglePicture = new Picture();
+		 threeRectanglePicture.add(new Rectangle());
+		 threeRectanglePicture.add(new Rectangle());
+		 threeRectanglePicture.add(new Rectangle());
+		 compositeObj.add(threeRectanglePicture);
+		 compositeObj.add(new Line());
+		 compositeObj.add(new Text());
+		 compositeObj.draw(log);
+		 String expResult = "RectRectRectLineText";
+		 String result = log.toString();
+		 assertEquals(expResult, result);
 	}
 
 }
