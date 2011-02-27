@@ -10,11 +10,11 @@ package designpatterns;
  * @author jtherrell
  */
 abstract class VisualComponent {
-	abstract public void draw();
+	abstract public void draw(Log log);
 }
 
 class TextView extends VisualComponent {
-	public void draw(){}
+	public void draw(Log log){log.append("text");}
 }
 
 abstract class Decorator extends VisualComponent {
@@ -24,8 +24,8 @@ abstract class Decorator extends VisualComponent {
 		this.component = component;
 	}
 
-	public void draw() {
-		component.draw();
+	public void draw(Log log) {
+		component.draw(log);
 	}
 }
 
@@ -36,12 +36,12 @@ class ScrollDecorator extends Decorator {
 	}
 
 	@Override
-	public void draw() {
-		super.draw();
-		drawScroller();
+	public void draw(Log log) {
+		super.draw(log);
+		drawScroller(log);
 	}
 
-	private void drawScroller() {}
+	private void drawScroller(Log log) {log.append("scroller");}
 }
 
 class BorderDecorator extends Decorator {
@@ -51,12 +51,12 @@ class BorderDecorator extends Decorator {
 	}
 
 	@Override
-	public void draw() {
-		super.draw();
-		drawBorder();
+	public void draw(Log log) {
+		super.draw(log);
+		drawBorder(log);
 	}
 
-	private void drawBorder() {}
+	private void drawBorder(Log log) {log.append("border");}
 }
 
 
