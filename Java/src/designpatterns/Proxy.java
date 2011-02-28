@@ -9,14 +9,14 @@ import java.awt.Rectangle;
  *
  * @author jtherrell
  */
-abstract class Glyph {
+abstract class VisualObject {
 	protected Rectangle extent;
 	
 	abstract public void draw();
 	abstract public Rectangle getExtent();
 }
 
-class ImageProxy extends Glyph {
+class ImageProxy extends VisualObject {
 	private Image image;
 	private String filename;
 
@@ -43,7 +43,7 @@ class ImageProxy extends Glyph {
 	}
 }
 
-class Image extends Glyph {
+class Image extends VisualObject {
 	public Image(String filename) {
 		// Load the file here using the filename
 		// get the extent of the loaded image and update extent
