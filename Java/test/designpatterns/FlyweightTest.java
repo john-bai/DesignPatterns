@@ -20,7 +20,7 @@ public class FlyweightTest {
 	 * Test of getInstance method, of class Singleton.
 	 */ @Test
 	public void testFlyweightSingletonBehavior() {
-		 Character[] characters = new Character[chars.length];
+		 Char[] characters = new Char[chars.length];
 		 for (int i = 0; i < chars.length; i++) {
 			characters[i] = CharacterFactory.CreateCharacter(chars[i]);
 			assertEquals(characters[i], CharacterFactory.CreateCharacter(chars[i]));
@@ -32,7 +32,7 @@ public class FlyweightTest {
 	 */ @Test
 	public void testFlyweightDraw() {
 		Log log = new Log();
-		Character[] characters = new Character[chars.length];
+		Char[] characters = new Char[chars.length];
 		for (int i = 0; i < chars.length; i++) {
 			CharacterFactory.CreateCharacter(chars[i]).draw(fonts[i%2], log);
 		}

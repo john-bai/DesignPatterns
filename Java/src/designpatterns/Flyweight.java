@@ -10,9 +10,9 @@ import java.awt.Font;
  *
  * @author jtherrell
  */
-class Character {
+class Char {
 	private char c;
-	public Character(char c) {
+	public Char(char c) {
 		this.c = c;
 	}
 	public void draw(Font font, Log log) {
@@ -22,11 +22,11 @@ class Character {
 
 class CharacterFactory {
 	private static final int NCHARCODES = 128;
-	private static Character[] characters = new Character[NCHARCODES];
+	private static Char[] characters = new Char[NCHARCODES];
 
-	static Character CreateCharacter(char c) {
+	static Char CreateCharacter(char c) {
 		if (characters[c] == null)
-			characters[c] = new Character(c);
+			characters[c] = new Char(c);
 		return characters[c];
 	}
 }

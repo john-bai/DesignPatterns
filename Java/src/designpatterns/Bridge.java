@@ -84,6 +84,9 @@ class Log {
 	public Log() { 
 		log = new StringBuffer();
 	}
+	public void append(char c) {
+		log.append(c);
+	}
 	public void append(String s) {
 		log.append(s);
 	}
