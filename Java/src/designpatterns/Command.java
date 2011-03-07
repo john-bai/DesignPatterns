@@ -21,6 +21,10 @@ class Document {
     public void open() {
 		// Open the file and store file's contents
 	}
+
+	public void read() {
+		
+	}
     public void paste() {
 		// Paste contents into document
 	}
