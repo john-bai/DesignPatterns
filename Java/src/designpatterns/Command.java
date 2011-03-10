@@ -6,47 +6,50 @@
 package designpatterns;
 
 import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.List;
 
 /**
  *
  * @author jtherrell
  */
-class Document {
-	private String filename;
-
-    public Document(String filename) {
-		this.filename = filename;
-	}
-    public void open() {
-		// Open the file and store file's contents
-	}
-
-	public void read() {
-		
-	}
-    public void paste() {
-		// Paste contents into document
-	}
-};
-
 class Application {
-	private ArrayList<Document> docs;
+	private List<Document> docs;
+	private int currentDocIndex;
+	private Menu menu;
+	private Log log;
 
-    void add(Document doc) {
-		docs.add(doc);
+	public Application(Log log) {
+		docs = new ArrayList<Document>();
+		currentDocIndex = -1;
+		this.log = log;
 	}
-};
-/*
-*/
-abstract class Command {
 
-    abstract public void execute();
-	//protected Command();
-};
+	public void addMenu(Menu menu) {
+		this.menu = menu;
+	}
+
+    public void addDocument(Document doc) {
+		log.append(doc.filename() + " opened...");
+		docs.add(doc);
+		currentDocIndex = docs.indexOf(doc);
+	}
+
+	public Document currentDoc() {
+		if (currentDocIndex < 0 || currentDocIndex >= docs.size()) {
+			return null;
+		}
+		log.append("Paste to " + docs.get(currentDocIndex).filename());
+		return docs.get(currentDocIndex);
+	}
+}
 /*
 */
-class OpenCommand extends Command {
+interface Command {
+    public void execute();
+}
+/*
+*/
+class OpenCommand implements Command {
 
 	private Application target;
 
@@ -58,86 +61,70 @@ class OpenCommand extends Command {
 		String name = askUser();
 		if(name != null) {
 			Document doc = new Document(name);
-			target.add(doc);
+			target.addDocument(doc);
 			doc.open();
 		}	
 	}
 	
 	public String askUser() {
-		Scanner in = new Scanner(System.in);
-		System.out.print("Enter filename: ");
-		return in.nextLine();
+		// Pretend we prompt the user for the filename
+		return "./untitled.txt";
 	}
-};
-
-
-class PasteCommand extends Command {
-	private Document doc;
-
-	public PasteCommand(Document doc) {
-		this.doc = doc;
-	}
-
-    public void execute() {
-		doc.paste();
-	}
-};
-
-class SimpleCommand extends Command {
-	private Receiver receiver;
-
-    public SimpleCommand(Receiver receiver) {
-		this.receiver = receiver;
-	}
-
-    public void execute() {
-		receiver.action();
-	}
-
-};
-
-interface Receiver {
-	public void action();
 }
 
-class MyClass implements Receiver {
-	public void action() {
-		// do something
-	}
-};
 
-class MacroCommand extends Command {
-	private ArrayList<Command> cmds;
-	
-	public MacroCommand() {
-		cmds = new ArrayList<Command>();
-	}
+class PasteCommand implements Command {
+	private Application target;
 
-    public void add(Command cmd) {
-		cmds.add(cmd);
-	}
-	
-    public void remove(Command cmd) {
-		cmds.remove(cmd);
+	public PasteCommand(Application target) {
+		this.target = target;
 	}
 
     public void execute() {
-		for (int i = 0; i < cmds.size(); i++)
-			cmds.get(i).execute();
+		target.currentDoc().paste();
 	}
-};
+}
 
-//void dummy () {
-///*
-//*/
-//MyClass* receiver = new MyClass;
-//// ...
-//Command* aCommand =
-//    new SimpleCommand<MyClass>(receiver, &MyClass::Action);
-//// ...
-//aCommand->Execute();
-///*
-//*/
-//}
-/*
-*/
+class Menu {
+	private List<MenuItem> menuItems;
+
+	public Menu() {
+		menuItems = new ArrayList<MenuItem>();
+	}
+
+	public void addMenuItem(MenuItem menuItem) {
+		if (menuItem != null)
+			menuItems.add(menuItem);
+	}
+}
+
+class MenuItem {
+	private String label;
+	private Command command;
+
+	public MenuItem(String label, Command command) {
+		this.label = label;
+		this.command = command;
+	}
+
+	public void clicked() {
+		command.execute();
+	}
+
+}
+
+class Document {
+	private String filename;
+
+    public Document(String filename) {
+		this.filename = filename;
+	}
+
+	public String filename() {
+		return filename;
+	}
+
+	public void read() {}
+    public void open() {}
+    public void paste() {}
+}
