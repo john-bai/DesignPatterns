@@ -15,7 +15,9 @@ abstract class MazeFactory {
     abstract public Room makeRoom(int n);
     abstract public Door makeDoor(Room r1, Room r2);
 }
-
+//why making an abstract class for the factory classes that shall implement it when you have only one factory class? 
+//And even if we take the abstract class into consideration, why wouldn't you make an interface so that it would be final and abstract at the same time.
+//Since we will not be changing the values of anything related to that class for the reason that we will not make an object from it.
 class BombedMazeFactory extends MazeFactory {
 	private static BombedMazeFactory s_instance;
 
